@@ -1,0 +1,738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new digester or engine for softning bones containing the description of its make and use in these particulars : viz. cookery, voyages at sea, confectionary, making of drinks, chymistry, and dying : with an account of the price a good big engine will cost, and of the profit it will afford / by Denys Papin ...</title>
+            <author>Papin, Denis, 1647-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55577</idno>
+            <idno type="STC">Wing P309</idno>
+            <idno type="STC">ESTC R17820</idno>
+            <idno type="EEBO-CITATION">11864186</idno>
+            <idno type="OCLC">ocm 11864186</idno>
+            <idno type="VID">50066</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50066)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 503:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new digester or engine for softning bones containing the description of its make and use in these particulars : viz. cookery, voyages at sea, confectionary, making of drinks, chymistry, and dying : with an account of the price a good big engine will cost, and of the profit it will afford / by Denys Papin ...</title>
+                  <author>Papin, Denis, 1647-1714.</author>
+               </titleStmt>
+               <extent>[8], 54 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for Henry Bonwicke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cookery (Meat) --  Early works to 1800.</term>
+               <term>Pressure cookery --  Early works to 1800.</term>
+               <term>Rendering apparatus.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50066:1" rendition="simple:additions"/>
+            <p>A New Digeſter OR ENGINE FOR SOFTNING BONES, CONTAINING THE DESCRIPTION Of its <hi>Make</hi> and <hi>Uſe</hi> in theſe Particulars: <hi>VIZ.</hi> Cookery, Voyages at Sea, Confectionary, Ma<g ref="char:EOLhyphen"/>king of Drinks, Chymiſtry, and Dying. WITH AN Account of the Price a good big Engine will coſt, and of the Profit it will afford.</p>
+            <p>By <hi>DENYS PAPIN</hi> M.D. Fellow of the ROYAL SOCIETY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>Henry Bonwicke</hi> at the <hi>Red Lyon</hi> in S. <hi>Paul's</hi> Church yard. 1681.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:50066:2"/>
+            <head>At a Meeting of the Council of the Royal Society, <hi>Decemb. 8<hi rend="sup">th</hi> 1680.</hi>
+            </head>
+            <p>ORdered, That a Book intituled <hi>A New Di<g ref="char:EOLhyphen"/>geſter, or Engine for ſoftning Bones,</hi> &amp;c. Written by <hi>Denys Papin</hi> Doctor of Phyſick, and Fellow of this Society, be Printed and Publiſhed.</p>
+            <closer>
+               <signed>Chr. Wren.</signed>
+            </closer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:50066:2"/>
+            <pb facs="tcp:50066:3"/>
+            <p>
+               <figure>
+                  <figDesc>pressurized engine</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50066:4"/>
+            <pb facs="tcp:50066:4"/>
+            <head>TO THE MOST ILLUSTRIOUS THE ROYAL SOCIETY.</head>
+            <opener>
+               <salute>Moſt Honoured Sirs,</salute>
+            </opener>
+            <p>THE favourable Acceptance you give to all thoſe who, according to your Inſtitution, are ſtudious to increaſe both Natural Knowledge, and the Commodities of Humane Life, hath encouraged me to preſent you with theſe Experiments as my beſt Endeavours to follow your Example: I confeſs they are nothing near deſerving to be offered to ſuch ſagacious Wits; but I have ſeen how quickly and eaſily you diſtinguiſh between good and bad in all manner of Writings, and how kindly you bear with the defects of thoſe whoſe deſigns are good; I hope therefore you will be pleaſed to honour this ſmall Treatiſe with your Protection, and give me leave to profeſs my ſelf with all imaginable Reſpect,</p>
+            <closer>
+               <salute>Moſt Honoured SIRs,</salute> 
+               <signed>Your moſt humble and moſt obedient Servant, <hi>D. PAPIN.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:50066:5"/>
+            <head>PREFACE.</head>
+            <p>SOme Experiments of the ſcrewed <hi>Balneum Mariae</hi> have already been printed in the ſecond continua<g ref="char:EOLhyphen"/>tion of the Phyſico-mechanical Experiments of the Honourable <hi>R. Boyle</hi> put forth this year <hi>1680.</hi> but that Book being writ in Latine, and not giving the De<g ref="char:EOLhyphen"/>ſcription of the Engine, nor the ways how to uſe it ſafely for want of ſufficient Tryals, I thought it would not be improper now to make upon that Subject a ſeparate Trea<g ref="char:EOLhyphen"/>tiſe in the vulgar Tongue for the uſe of ſuch Houſe<g ref="char:EOLhyphen"/>keepers and Tradeſmen as may have occaſion for it.</p>
+            <p>Having therefore reaſon to believe that this Piece may fall into the hands of divers perſons that would ne<g ref="char:EOLhyphen"/>ver read the Hiſtory of the Royal Society, nor Mr. <hi>Boyle</hi>'s Book about the Uſefulneſs of Experimental Philoſophy, I thought this to be a very fit place to un<g ref="char:EOLhyphen"/>deceive thoſe that imagine it to be a folly to look for new Diſcoveries, and that all things are already found out. For the confuting this errour I will take nothing but from my ſubject, and even amongst ſeveral inſtances it affords I will uſe but one. Therefore I ſhall only ſay, that Cookery is ſuch an ancient Art, the uſe whereof is ſo general and ſo frequent, and people have been ſo earneſt upon the improving of it, that it ſeems if any could be brought to perfection, this ſhould be it: nevertheleſs no body can deny but it will be now conſiderably improved, ſeeing by the help of the Engine here treated of, the oldeſt and hardeſt Cow-Beef may be made as tender and as
+<pb facs="tcp:50066:5"/>ſavoury as young and choice meat. I may beſides ſay, that this was no hard matter; for every one knows that compact Bodies, if hot, will burn more powerfully than thoſe of a more rare contexture: That red-hot Iron, for example, will do more than Coals: ſo there was no queſtion but that water being heated enough for boiling, and ſhut up ſo as not to be able to expand it ſelf, as by ebullition it doth, ſuch water, I ſay, would effect much more than if permitted to its ordinary boiling expanſion. For my part, aſſoon as this came into my mind by making ſome Experiments about Compreſſion for Mr. <hi>Boyle,</hi> I thought it ſo certain, that I made no queſtion to under<g ref="char:EOLhyphen"/>take that Tryal: yet though the thing was ſo eaſie, no body, that I know of, had any thoughts of it: many Learned men have done and do ſtill things of much more difficulty, but no body can ſee all things: Therefore we muſt confeſs, that there may ſtill remain Diſcoveries to be made by ſmall as well as great Capacities. And no man that induſtriouſly proſecutes a Subject, though ſeemingly never ſo trivial, need deſpair of obtaining that great felicity of having made ſome Diſcovery, the uſefulneſs whereof may recommend it to Poſterity.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:50066:6"/>
+            <head>INDEX.</head>
+            <list>
+               <item>HOW to know the quantity of preſſure in the Digeſter <hi>Pag. 2</hi>
+               </item>
+               <item>How to know the degree of heat <hi>Pag. 4</hi>
+               </item>
+               <item>Meat may be kept upon the fire three times as long as is ne<g ref="char:EOLhyphen"/>ceſſary to make it ready, and yet it will not be ſpoiled <hi>Pag. 9, 10</hi>
+               </item>
+               <item>The ſame Experiment made upon Bones <hi>Pag. 11</hi>
+               </item>
+               <item>How to boil Mutton <hi>Pag. 8</hi>
+               </item>
+               <item>How to boil Beef <hi>Pag. 9</hi>
+               </item>
+               <item>How to boil Lamb <hi>Pag. 13</hi>
+               </item>
+               <item>How to boil Rabbets <hi>Pag. 15</hi>
+               </item>
+               <item>How to boil Pigeons <hi>ibid.</hi>
+               </item>
+               <item>How to boil Fiſh <hi>Pag. 17</hi>
+               </item>
+               <item>How to boil Pulſe <hi>Pag. 19</hi>
+               </item>
+               <item>How to make Gelly very cheap <hi>Pag. 21</hi>
+               </item>
+               <item>Glue for Glaſſes <hi>Pag. 25</hi>
+               </item>
+               <item>Harts-horn turned like Parmezan Cheeſe <hi>Pag. 28</hi>
+               </item>
+               <item>A Macquerel kept without Salt <hi>Pag. 29</hi>
+               </item>
+               <item>Salt water as good for nouriſhment as freſh water <hi>Pag. 30</hi>
+               </item>
+               <item>To make Sweet-meats at a cheap rate, and of a new taſte <hi>Pag. 32, 33, 34</hi>
+               </item>
+               <item>To make two ſorts of Drink with the ſame fruit <hi>Pag. 35, 36, 37</hi>
+               </item>
+               <item>To make a new kind of Wine <hi>Pag. 37</hi>
+               </item>
+               <item>Tinctures drawn in the hundredth part of the time uſually required for them <hi>Pag. 39</hi>
+               </item>
+               <item>New ways for Diſtilling <hi>Pag. 40, 41, 42</hi>
+               </item>
+               <item>How to hatch Chickens <hi>Pag. 44</hi>
+               </item>
+               <item>How to ſave the labour of grinding Cochenille <hi>Pag. 47</hi>
+               </item>
+               <item>To dye with thick Juyees <hi>Pag. 48</hi>
+               </item>
+               <item>To make Horn and Tortoiſe-ſhell ſoft for a great while <hi>Pag. 50</hi>
+               </item>
+            </list>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Page</hi> 1. <hi>line</hi> 19. for GG <hi>read</hi> GG <hi>Fig.</hi> 2. <hi>p.</hi> 3. <hi>l.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. for LG <hi>r.</hi> LQ. <hi>p.</hi> 16. <hi>l.</hi> 32. for <hi>Exper.</hi> 3. <hi>r. Exper.</hi> 2. <hi>p.</hi> 20. <hi>l.</hi> 13. for <hi>Chap.</hi> 3. <hi>r. Chap</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>p.</hi> 45. <hi>l.</hi> 3. for other glaſs <hi>r.</hi> Weather glaſs. <hi>p.</hi> 48. <hi>l.</hi> 35. the paragraph to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at <hi>Becauſe</hi> and a <hi>comma</hi> after <hi>taſte</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:50066:6"/>
+            <head>
+               <hi>CHAP. I.</hi> The Deſcription of the Engine, and how to uſe it ſafely.</head>
+            <list>
+               <item>
+                  <hi>AA.</hi> Is a Braſs Cylinder hollow within, ſhut up at the bottom, and open at the top.</item>
+               <item>
+                  <hi>BB.</hi> Is another hollow Cylinder of the ſame bigneſs as the other, but much ſhorter, being to cover and ſhut the ſame by applying both their apertures to one another, as you may ſee in the Scheme.</item>
+               <item>
+                  <hi>CC.</hi> Are two Appendices or Ears caſt to the Cylinder, <hi>AA.</hi> as the Tronions of a piece of Ordnance.</item>
+               <item>
+                  <hi>DDDD.</hi> Are two pieces of Iron put upon the Appendices <hi>CC.</hi> at one end, and the Iron bar <hi>EE.</hi> at the other.</item>
+               <item>
+                  <hi>EE.</hi> Is an Iron bar put through the ends of the Iron pieces <hi>DD.</hi> and ſo may eaſily be taken off or put on, when we have a mind either to open or to ſhut up the Engine.</item>
+               <item>
+                  <hi>FF.</hi> Are two Screws, which being ſitted to the holes in the bar <hi>EE.</hi> ſerve to preſs both the Cylinders <hi>AA. BB.</hi> againſt one another.</item>
+               <item>
+                  <hi>GG.</hi> Is another hollow Cylinder made of Glaſs, Pewter, or ſome other Material, fit to receive thoſe things that are to be boiled: this being filled and ſtopt with a cover exactly ground to it, and preſſed upon it with a Screw, as you ſee in the Figure, is to be included in the Cylinders <hi>AA. BB.</hi> with water all round about it.</item>
+            </list>
+            <p>TO uſe this Engine with conveniency and eaſe, it ought to be fitted in a Furnace built on pur<g ref="char:EOLhyphen"/>poſe for it, and ſhould go in as far as the Ap<g ref="char:EOLhyphen"/>pendices CC: ſo the fire being underneath, and the
+<pb n="2" facs="tcp:50066:7"/>Screws FF well faſtned, you may boil your meat as long as you pleaſe, without danger of waſting it by the ex<g ref="char:EOLhyphen"/>halation of the volatile parts.</p>
+            <p>It is to be noted, that ſuch a long and ſlender ſhape is better than any other for ſuch an Engine, becauſe it may be kept ſhut with leſs ſtrength: for it is well known, that the wider an aperture is, the more ſtrength is required to keep the cover from being lifted up by the inward preſſure.</p>
+            <p>It is to be noted alſo, that the cover BB muſt have ſome depth, that being filled with water, it may always keep ſome moiſture in a circular piece of paper, which is to be put in the joynt II: for the two Cylinders can never be ground to one another ſo exactly as to keep in Liquors when highly compreſt, unleſs there be ſome pa<g ref="char:EOLhyphen"/>per put between them, and that paper cannot ſtop it exactly neither, unleſs it be wet: yet the depth of the ſaid cover BB ought to be but little, that the Engine being almoſt all cloſed in the Furnace, it may the better receive and keep the heat.</p>
+            <p>This Engine is, without doubt, ſimple enough, and eaſie enough to be kept in order; but the miſchief is, that it is much more troubleſom to look into it than into ordinary pots: and becauſe it doth more or leſs effect, according as the included water is more or leſs compreſt, and according as the heat alſo is greater or leſs; it may ſometimes happen, that you will draw your meat before it is ready enough; and ſometimes too you may burn it: It was therefore neceſſary to find out ſome way how to know both the quantity of the inward preſſure, and the degree of heat.</p>
+            <div type="part">
+               <head>To know the Quantity of the inward Preſſure.</head>
+               <p>You muſt have a little pipe open at both ends, as HH: this being ſoddered to a hole in the cover BB, is to be ſtopt at the top with a little valve P exactly ground to it, and fitted alſo with a paper between. This muſt
+<pb n="3" facs="tcp:50066:7"/>be kept down with an Iron rod LM, one end of which muſt be put into an Iron ſtaple LG faſtned to the bars EE, and the other end kept down by a weight N to be hung upon it nearer or further from the valve, ac<g ref="char:EOLhyphen"/>cording as you would have it keep it leſs or more ſtrong<g ref="char:EOLhyphen"/>ly down upon the end of the pipe to reſiſt the leſs or greater preſſure from within, much after the manner as a weight is hung upon an ordinary Roman balance or Stilyard.</p>
+               <p>To prevent the drying of the paper of this valve, I take a little pipe OO tyed about with hemp, and thruſt it down into the pipe HH, ſo that one end reacheth pretty far into the water in the Engine: whence it comes to paſs, that if ſome of the ſaid water be loſt, the inward preſſure will nevertheleſs drive up water through the ſaid pipe OO againſt the valve P, which makes the ſaid valve more exact, and more fit to ſhew whether any thing gets out that way.</p>
+               <p>The pipe HH muſt be but ſlender, that it may be kept ſhut by a little weight: in the Engines I have hi<g ref="char:EOLhyphen"/>therto imployed, this pipe is about ⅕ of an inch over, ſo that its aperture to an aperture 1 inch over is as 4 to 25: therefore being more than ſix times leſs, it may be kept ſhut with a weight more than ſix times lighter too. Now according to the Experiments of Mr. <hi>Boyle</hi> in his continuation of Phyſico-mechanical Experiments, the ordinary preſſure of the Air againſt a hole 1 inch over is about 12 pounds, and therefore <hi>it is about</hi> 2 <hi>pounds againſt the aperture of the ſaid pipe HH.</hi> The rod LM is 12 inches long, and the diſtance from L to P is 1 inch: ſo that 1 pound weight hanging at M, preſſeth as much upon the valve P as 12 pounds could do, if directly laid upon the ſaid valve; and ſo it cannot be lifted up, unleſs the inward preſſure be ſix times ſtronger than the ordinary preſſure of the Air. Therefore when there is one pound weight hanging in M, and yet the water gets out under the valve, one may conclude that the <hi>inward preſſure is about eight times ſtronger than the ordi<g ref="char:EOLhyphen"/>nary
+<pb n="4" facs="tcp:50066:8"/>preſſure of the Air,</hi> becauſe it lifts up not only the weight N, which is equal to 6, but alſo the rod LM, which I have found by tryal equal to 4 pounds or two preſſures againſt the valve: and ſo by increaſing or leſ<g ref="char:EOLhyphen"/>ſening the weight, or by removing it from one place to another, one may always know near enough how ſtrong the inward preſſure is.</p>
+               <p>The ſame Pipe HH is alſo very commodious to ſill up the Engine with water after it is ſhut by the Screws: and the pipe OO is not to be put in till the Engine be perfectly filled with water by the pipe HH.</p>
+            </div>
+            <div type="part">
+               <head>To know the Degree of Heat.</head>
+               <p>I wiſh I had been able to make a Thermometer di<g ref="char:EOLhyphen"/>vided as it ſhould be, to ſhew preciſely by how much the heat is increaſed or diminiſhed: and I believe by that means, comparing the ſeveral degrees of heat with the quantity of the effect thereby produced, one might diſcover ſeveral things about the Nature both of heat and of the Materials wrought upon: but for want of time and other neceſſaries for that deſign, I have in<g ref="char:EOLhyphen"/>ſtead of it uſed another way very eaſie, and yet exact enough for all the uſes here ſpoken of. I hang a weight to a thread about three foot long, ſo that every ſwing makes about a ſecond, and I let fall a drop of water in<g ref="char:EOLhyphen"/>to a little cavity made for that purpoſe at the top of it, and I tell how many times the hanging weight will move to and fro before the drop of water is quite evaporated: and I take care that the place where I put the drop may be clean, becauſe a little greaſe will conſiderably hinder its evaporating.</p>
+               <p>So being able to know the degrees both of heat and preſſure in the Engine, one may eaſily order it ſo as to do the effect juſt as deſired, if it hath but once been try<g ref="char:EOLhyphen"/>ed how powerfully it works? For you need but take the quantity of coals found out by Experience to be the moſt convenient: ſet it in the Furnace under the En<g ref="char:EOLhyphen"/>gine,
+<pb n="5" facs="tcp:50066:8"/>leave the doors and the regiſters of your Furnace open till the heat is come to your intended degree: then you are to ſhut both the doors and the regiſters, that the fire may be choaked, and ſo let your Veſſels cool; but you muſt alſo have laid upon the rod LM as much weight as is neceſſary to make the intended inward preſſure: and you may be ſure that by always keeping the ſame rule, the effect will be found always very near the ſame: at leaſt I can aſſure you, that I have miſſed very often when I went to work at a venture; but ſince I have found out ways thus to rule me, I have always ſucceeded very well, unleſs by ſome miſchance.</p>
+               <p>Yet it is to be noted, that if we would put into the pot much leſs meat than it can hold, the preſſure in this could not be made ſo great as in the Engine: and in<g ref="char:EOLhyphen"/>deed I had ſometimes pots broken by the ambient water preſſing upon them harder than they could bear: the weight hanging from the rod LM could not give me any notice of the preſſure in the pot; therefore it will be better to put in too much than too little meat: or if you pleaſe to do all exactly, and loſe nothing, you may follow the directions given <hi>Chap.</hi> 2. <hi>Exper.</hi> 12.</p>
+               <p>Becauſe it would be a hard matter at Sea to make uſe of the contrivance deſcribed afore to know the quantity of preſſure, for that the motions of the Ship would ſhake the weights and open the valve P: you muſt inſtead of that leave your <hi>Balneum Mariae</hi> empty enough, that the intended heat may juſt make the intended inward preſſure: For Example, if you will make ten preſſures in your Engine with a degree of heat that may dry up the drop of water in 5 ſeconds, you are to put in your Engine but ⅞ of the water it can hold, and give but the ſaid degree of heat, and you may be ſure that the in<g ref="char:EOLhyphen"/>ward preſſure will be about ten times as great as the ordinary preſſure of the Air, as you may ſee <hi>Chap.</hi> 2. <hi>Exper.</hi> 16. By that means you may (inſtead of the Iron rod and of the weight) faſten the little valve P with a Screw; and that will be very eaſie, if the little pipe HH
+<pb n="6" facs="tcp:50066:9"/>be caſt with ſmall Appendices as the Cylinder AA, only things need not be ſtrong here, becauſe the aperture is but little.</p>
+               <p>It will not be requiſite to know all the ſeveral quan<g ref="char:EOLhyphen"/>tities of Water neceſſary to make all the ſeveral degrees of preſſure, with all the ſeveral degrees of heat; but, for ordinary uſe, it will be enough to keep always the ſame quantity of water in the Engine, and find by ex<g ref="char:EOLhyphen"/>perience what degree of heat will be neceſſary for every operation with ſuch a quantity of water.</p>
+               <p>I wiſh I had been able to do things as well as I have de<g ref="char:EOLhyphen"/>ſcribed them here, then I could preciſely ſay what quan<g ref="char:EOLhyphen"/>tity of coals or wood is neceſſary for every operation; but my affairs being always uncertain, I have built no Furnaces, but have always ſet my Engine in a Chimney<g ref="char:EOLhyphen"/>corner, and put the fire in the ſaid corner between the Chimney and the Engine. So it is very likely I have not kept the fire ſo well as might be done in a good Furnace: nevertheleſs I will venture to give an account of ſeveral things I have already done with this Engine, becauſe that will be a good help ſtill to find more eaſily the quantity of fire fit for other Engines to be made hereafter. I believe alſo that the proportion between two ſeveral operations will be the ſame in all Engines. I have found, for Example, that the quantity of coals ne<g ref="char:EOLhyphen"/>ceſſary to boil Mutton is by 2/7 leſſer than the quantity neceſſary to boil Beef: So when you have found by ex<g ref="char:EOLhyphen"/>perience what quantity is neceſſary to boil Beef in any Engine, you muſt take leſs by 2/7 when you will boil Mut<g ref="char:EOLhyphen"/>ton in the ſame Engine, and ſo proportionably for other Operations.</p>
+               <p>But before I come to give an account of the Expe<g ref="char:EOLhyphen"/>riments, I think it will not be improper to ſay, that after I had made the firſt <hi>Balneum Mariae</hi> ſhut by Screws, I had a mind to make another ſhut without any Screws by the help of a great oval Valve applied inwardly, but that may be taken quite out becauſe of its oval ſhape, which hath been deſcribed for the Wind-gun in the
+<pb n="7" facs="tcp:50066:9"/>Honourable Mr. <hi>Boyle</hi>'s Book about Phyſico-mechanical Experiments printed this year 1680. That <hi>Balneum Mariae</hi> is 6 inches over, and 18 inches deep, ſo that I can put in a pot that will hold 9 or 10 pounds of meat together: but becauſe the great Valve was not made ſtrong enough to keep its figure exactly, paper cannot make it tite; I did always make uſe of leather for that purpoſe; and becauſe leather melts in ſuch hot water, it cannot hold long, and the inward preſſure drives it away, and the water gets looſe. Nevertheleſs when I have met with good ſtrong leather of an equal thickneſs, I have been able ſometimes to ſoften the biggeſt bone of a Leg of Beef without ſpoiling the meat; but ſometimes alſo, when the leather was not good, the meat was ſpoil<g ref="char:EOLhyphen"/>ed, and the bones could not be ſoftned; therefore I uſe that Engine but ſeldom: however if ſuch could be made that would hold with paper alone without leather, this latter way might be better than the firſt, becauſe the ſprings of the Iron hold not long, ſo that we muſt look to faſten the Screws from time to time; but in this latter Engine you might be ſure that the greater the in<g ref="char:EOLhyphen"/>ward preſſure is, the harder would the valve be ſhut: nevertheleſs I would adviſe you rather to ſhut the <hi>Bal<g ref="char:EOLhyphen"/>neum Mariae</hi> with Screws, till the Work-men be more skilful in the making ſuch valves,</p>
+               <p>Thus much for the Deſcription of the Engine, and the ways how to uſe it ſafely: I ſhall now come to the Ex<g ref="char:EOLhyphen"/>periments from whence you may know ſome of its Pro<g ref="char:EOLhyphen"/>prieties and Uſes; but becauſe ſome of the Experiments gave occaſion to ſome Phyſical Obſervations, I thought it would not be amiſs to relate them, though they had no connexion with the ſubject in hand; I have therefore diſtinguiſhed them by the Character, that they may be left by thoſe who care not for ſuch things.</p>
+            </div>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="8" facs="tcp:50066:10"/>
+            <head>
+               <hi>CHAP. II.</hi> Experiments for Cooks.</head>
+            <div n="1" type="experiment">
+               <head>EXPERIMENT I.</head>
+               <p>
+                  <hi>J<g ref="char:V">Ʋ</g>ne</hi> 2. having filled my Pot with a piece of a Breaſt of Mutton, and weighed ſeven ounces of Coals, I lighted the fire; the heat came to ſuch a degree as to dry up a drop of water in 3 ſeconds time, and the in<g ref="char:EOLhyphen"/>ward preſſure was about nine times ſtronger than the ordinary preſſure of the Air: I let the fire go out of it ſelf, and the Veſſels being cooled, I found the remain<g ref="char:EOLhyphen"/>ing coal to weigh about half an ounce: ſo that there had been but 6½ ounces conſumed; nevertheleſs the meat being taken out, was found to have contracted an em<g ref="char:EOLhyphen"/>pyreumatical taſte, and the juyce of it did not turn to a Gelly ſo ſtrong as when the meat is not over-done.</p>
+            </div>
+            <div n="2" type="experiment">
+               <head>EXPERIM. II.</head>
+               <p>
+                  <hi>June</hi> 4. I repeated the ſame Experiment, and I took but 6½ ounces of coals; but by blowing I made ſuch a heat, that a drop of water would evaporate in leſs than 2 ſeconds, the remaining coals did not weigh full half an ounce, and the inward preſſure was a little greater than in the former Experiment. Now although the quantity of coals had been leſſer at this time, the meat was nevertheleſs much more burnt than the other, be<g ref="char:EOLhyphen"/>cauſe, I believe, I had blown the fire more briskly.</p>
+            </div>
+            <div n="3" type="experiment">
+               <head>EXPERIM. III.</head>
+               <p>
+                  <hi>June</hi> 6. I repeated the ſame Experiment, and took but five ounces of coals, and gave juſt heat enough to dry up the drop of water in 4 ſeconds, the inward preſ<g ref="char:EOLhyphen"/>ſure
+<pb n="9" facs="tcp:50066:10"/>as before, then the Mutton was very well done, the bones ſoft, and the juyce a ſtrong Gelly: ſo that having had occaſion to boil Mutton ſeveral times ſince, I have always obſerved the ſame rule, and never miſſed to have it in the ſame condition, which I take to be the beſt of all; becauſe, if the coction was leſſer, the bones could not be ſoft; and if it was ſtronger, the Gelly be<g ref="char:EOLhyphen"/>ing ſofter, could not be ſo nouriſhing. Yet I do not think that the perfection in this caſe is limited to a little more or leſs: but I believe rather that Mutton may be conſiderably more boiled, and be very good ſtill; yet I had always rather to under-do it a little than over-do it, becauſe when it is over-done, there is no remedy; and if ſome pieces of bone be not ſoft enough, it is very eaſie to put them again with new meat.</p>
+            </div>
+            <div n="4" type="experiment">
+               <head>EXPERIM. IV.</head>
+               <p>
+                  <hi>June</hi> 9. I made the Experiment with a Breaſt of Beef, and took ſeven ounces of coals: I urged the fire till one drop of water would dry up in 3 ſeconds, and the in<g ref="char:EOLhyphen"/>ward preſſure about nine times as ſtrong as the ordinary preſſure of the Air: the coals that were not conſumed did weigh about three quarters of an ounce, and the Beef was very well boiled, although there were ſome parts of the bones not quite ſoftned: yet I would not adviſe people to beſtow any more fire to boil Beef, be<g ref="char:EOLhyphen"/>cauſe it is always very eaſie to boil the bones again: and I had rather ſeveral times boil the meat but as much as may be neceſſary to take it off from the bones, be<g ref="char:EOLhyphen"/>cauſe afterwards the bones may without any danger be boiled aſunder, as you may ſee by the following Experi<g ref="char:EOLhyphen"/>ments.</p>
+            </div>
+            <div n="5" type="experiment">
+               <head>EXPERIM. V.</head>
+               <p>
+                  <hi>June</hi> 12. I did put Mutton and Beef together into my pot, and made the fire but with three ounces of coals; and though I preſt the fire pretty briskly, I could not
+<pb n="10" facs="tcp:50066:11"/>make the inward preſſure above three times ſtronger than the ordinary preſſure of the Air, and the heat but ſuch as to make a drop of water to evaporate in 90 ſe<g ref="char:EOLhyphen"/>conds: The Veſſels being cooled, I found the Mutton ready enough to pleaſe moſt people; but the Beef was undoubtedly too raw for any body: the Juyce did not turn to a Gelly, though I had put no water to it.</p>
+               <p>I believe that the preſſure and the heat in this caſe were ſo little, rather for want of having well fitted the Engine, than for want of coals; for I have obſerved ſince that time, <hi>That the better the Engine is cloſed, the more heat it acquireth with the ſame quantity of coals.</hi>
+               </p>
+               <p>
+                  <hi>June</hi> 13. I repeated the ſame Experiment, and filled the Pot partly with raw fleſh, and partly with ſome of the fleſh boiled the day before. I took but four ounces of coals, and having increaſed the fire as briskly as I could, I made the inward preſſure but five times ſtron<g ref="char:EOLhyphen"/>ger than the ordinary preſſure of the Air, and the heat but ſuch as to make a drop of water to evaporate in 40 ſeconds: the coals that remained not conſumed, did not weigh above two drams: the meat was very well done and tender; but the bones did not at all ſeem ſofter than before, although thoſe of the day before had already endured the fire of ſeven ounces of coals, three the firſt day and four the ſecond.</p>
+               <p>
+                  <hi>June</hi> 15. I repeated the ſame Experiment, and did put into the Pot the meat that had already been boiled twice, and alſo raw fleſh: at which time I imployed five ounces of coals; but I preſt the fire ſo gently, that the heat could never make a drop of water to evaporate in leſs than two minutes or 120 ſeconds. The fire being gone out of it ſelf, I found the meat done enough, and that which had endured the fire of twelve ounces of coals was very good ſtill, without Empyreume, and the bones not at all ſoftned: So I found that it was very eaſie to dreſs fleſh without bones, ſince it may be left up<g ref="char:EOLhyphen"/>on the fire three times as long as is neceſſary, and yet it will not at all be ſpoiled.</p>
+            </div>
+            <div n="6" type="experiment">
+               <pb n="11" facs="tcp:50066:11"/>
+               <head>EXPERIM. VI.</head>
+               <p>
+                  <hi>June</hi> 16. I made the ſame tryal with bones, and took thoſe very bones that had been thrice boiled with the meat of the laſt Experiment: theſe being put into a glaſs-pot with fat of Mutton alone that had been already boil<g ref="char:EOLhyphen"/>ed, I ſhut them into the Engine, then having made ſuch a heat as to dry a drop of water in 4 ſeconds, and the inward preſſure nine times ſtronger than the ordinary preſſure of the Air, I did quickly put out all the fire, and the bones were found very well ſoftned. I did again incloſe the ſame bones in the ſame pot with the ſame fat of Mutton, and added to them a new piece of bone that had never been boiled, and having given the fire, as before, I found the new piece of bone well ſoft<g ref="char:EOLhyphen"/>ned, and all the reſt ſtill very good.</p>
+               <p>
+                  <hi>June</hi> 17. I did for the third time incloſe the ſame bones in the ſame pot, and again a new piece of bone quite raw: and having given again the ſame heat, I found the new piece of bone well ſoftned, and all the reſt not at all impaired.</p>
+               <p>I repeated again the ſame Experiment with the ſame bones and the ſame fat of Mutton; but at this time I made a ſtronger and longer fire: and it fell out, that the firſt bones were almoſt brought quite to a powder, and ſmelt of burning, yet the taſte did not ſeem ſo un<g ref="char:EOLhyphen"/>pleaſing as when fleſh is ſo burnt. As for the fat, it had no ill taſte at all, only it ſeemed to be a little ſofter than ſome of the ſame fat that had been boiled but once: ſo I cannot tell whether by much boiling one may not make it change its nature, but I am ſure it would require more time than I can beſtow.</p>
+               <p>The three firſt Coctions mentioned in this Experi<g ref="char:EOLhyphen"/>ment are ſufficient to ſhew that bones, as well as fleſh, may be boiled at leaſt three times as long as there is need, and yet they will be in no danger of burning: ſo it is plain, that the moſt careleſs and unexact perſons will be able enough to boil them aſunder.</p>
+               <div type="part">
+                  <pb n="12" facs="tcp:50066:12"/>
+                  <head>Proprieties.</head>
+                  <p>Before I proceed I muſt take notice, that in the fifth Experiment ſome bones that had endured the fire of twelve ounces of coals, were not at all ſoftned to ſenſe, although five ounces of coals may be enough to produce that effect: from whence it appears, that the weighing of coals would ſignifie but little, unleſs we did at the ſame time obſerve how briskly we augment the fire; for there would be always danger of doing the meat more or leſs than we intend: and we may reckon this as a Pro<g ref="char:EOLhyphen"/>priety of this Engine, <hi>That the more briskly we preſs the fire, the more effect it produceth with the ſame quan<g ref="char:EOLhyphen"/>tity of coals.</hi>
+                  </p>
+                  <p>This Experiment put me in mind to make another that might manifeſtly ſhew, that the inward preſſure is a great help to advance coction: therefore I took two little Veſſels very like one another, and well faſtned by Screws, one of them was well ſoddered every where, but the other had a little hole left in its cover for the vapors to get out. Theſe Veſſels being filled with water and meat after the ſame manner, and put together in the ſame Bath of Sand, and left there in an equal heat for three quar<g ref="char:EOLhyphen"/>ters of an hour, I took them off both together, and found that the meat that had been exactly ſhut up, was rather over than under done; but the other was a great deal too raw: therefore we may reckon this alſo amongſt the Proprieties of this Engine, <hi>That the greater the inward preſſure is, the greater effect is produced by the ſame heat and in the ſame time.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="7" type="experiment">
+               <head>EXPERIM. VII.</head>
+               <p>Having found ſome difference between Beef and Mut<g ref="char:EOLhyphen"/>ton, the one being harder to be boiled than the other, I had a mind to ſee whether there would not be ſome difference alſo between fleſh of the ſame kind, but of different ages: therefore <hi>June</hi> 4. I took Lamb and filled two Glaſſes with it, and put ſome water into one of them. Now ſince five ounces of coals have been enough
+<pb n="13" facs="tcp:50066:12"/>to boil Mutton, I took but four ounces and half for the Lamb, thinking it would be more eaſie to be boiled. I preſt the fire as briskly as I could, but a drop of water would not dry away in leſs than 11 or 12 ſeconds: the inward preſſure was eight times ſtronger than the ordi<g ref="char:EOLhyphen"/>nary preſſure of the Air: (the heat was but ſo little, which may be becauſe the greater ſhare of the coals had been once already kindled) the fire being gone out by little and little, I found but one dram of coals that had not been conſumed. In the Glaſs without water the bones were ſoftned at ſome of the ends only; but in the Glaſs with water the bones were all very ſoft: yet the meat was much leſs ſavoury than in the other Veſſel.</p>
+               <p>This Experiment cauſed me to think; 1. That the bones of young beaſts require almoſt as much fire as thoſe of old ones to be boiled. 2. That water is a diſſolver fit to ſoften bones, but that it impairs the taſte.</p>
+            </div>
+            <div n="8" type="experiment">
+               <head>EXPERIM. VIII. Propriety.</head>
+               <p>That I might know pretty near what difference may be found as to the perfection of the Operation when the fire goes out of it ſelf, or when it is all taken off and quenched as ſoon as the heat is come to the intended de<g ref="char:EOLhyphen"/>gree, <hi>July</hi> 5. I filled again two glaſs-pots with Lamb, as before, and having kindled a great deal of coals, I preſt the fire till a drop of water would dry away in 3 ſeconds, and preſently I took off all the fire: I found the bones in the Pot without water a little ſofter than in the former Experiment, and in the Pot with water I found them all very ſoft, but the meat was not at all ſpoiled: So I think <hi>it is near the ſame to preſs the fire with</hi> 4 ½ <hi>ounces of coals ſo as to dry away a drop of water in</hi> 10 <hi>ſe<g ref="char:EOLhyphen"/>conds, and then let the fire go out of it ſelf, or to preſs the fire with-ſix or ſeven ounces of coals, and then take it all off as ſoon as a drop of water drys away in</hi> 3 <hi>ſe<g ref="char:EOLhyphen"/>conds:</hi> therefore the ſame proportion may be obſerved in other Operations. For Example: If I were to make an Operation that might be performed with a quantity
+<pb n="14" facs="tcp:50066:13"/>of coals that could make the Engine hot enough to dry a drop of water in 20 <hi>ſeconds,</hi> leaving afterwards the fire to go out of it ſelf: and if I would ſave time, I ſhould make a good fire that the heat might quickly come to dry a drop of water in 6 <hi>ſeconds,</hi> and preſently take away all the fire: and ſo in all other Operations, keep<g ref="char:EOLhyphen"/>ing ſtill the proportion as 10 <hi>to</hi> 3; yet I confeſs this Rule is not demonſtrated, neither doth the matter in hand require ſuch a Mathematical exactneſs.</p>
+               <p>When I ſay nothing of the inward preſſure, as in this Rule, it is to be underſtood that it ought to be always equal.</p>
+            </div>
+            <div n="9" type="experiment">
+               <head>EXPERIM. IX.</head>
+               <p>
+                  <hi>July</hi> 11. I took a Rabbet, and having filled with it two Glaſs-pots, and put ſome water in one, and none in the other, I kindled five ounces of coals, and having preſt the fire till a drop of water would dry away in 4 ſeconds, I let the fire go out of it ſelf. The Veſſels being cooled, I found the Rabbets bones well ſoftned in the Pot with water; but in the other they were all very hard: yet the fleſh having been well ſeaſoned, it was as tender and ſavoury as any Paſty can be; but in the Pot with water it reliſhed not ſo well by a great deal.</p>
+               <p>By this Experiment I ſaw that Rabbets bones are har<g ref="char:EOLhyphen"/>der than thoſe of Mutton: and I was more fully ſatisfied that water helps much the ſoftning of bones.</p>
+            </div>
+            <div n="10" type="experiment">
+               <head>EXPERIM. X. Propriety.</head>
+               <p>I took another Rabbet, and having ſhut it up, as in the former Experiment, I kindled five ounces and half of coals; but the paper in the joynt of it having been ſpoil<g ref="char:EOLhyphen"/>ed, the inward preſſure was not as ſtrong again as the ordinary preſſure of the Air, becauſe the water could get out; and for that reaſon alſo the heat could not well be kept: for, notwithſtanding the quantity of coals in this Experiment was greater, the drop of water was twenty
+<pb n="15" facs="tcp:50066:13"/>times longer evaporating than in the former Experiment: So that we may reckon this for a Propriety of this Engine, <hi>That the greater the inward preſſure is, the leſs quantity of coals is required to give a certain degree of heat.</hi> The Rabbet was very tender, but the bones were not at all ſoftned, no not in the Glaſs where I had put water; but ſome that had been boiled the day before, and put again to be made more ready, were found very well ſoftned.</p>
+               <p>By this Experiment I ſaw, that although ſome boiled bones do not ſeem to be ſoftned at all: yet they have got a great preparation towards that, though it doth not appear to ſenſe.</p>
+            </div>
+            <div n="11" type="experiment">
+               <head>EXPERIM. XI.</head>
+               <p>
+                  <hi>July</hi> 13. I took an old male and tame Rabbet, which is ordinarily but a pitiful ſort of meat: I ſeaſoned it, and put it into two Glaſs-pots: I kindled ſix ounces of coals, and preſt the fire till the drop of water would evaporate in leſs than 4 ſeconds: the inward preſſure was about ſix times ſtronger than the ordinary preſſure of the Air. The fire being gone out of it ſelf, I found the Rabbet very ready, and the bones ſoftned, and it was as ſavoury as young Rabbets uſe to be: the Juyce of it turned to a good Gelly: ſo that I think this to be the quantity of fire moſt fit to boil Rabbets.</p>
+            </div>
+            <div n="12" type="experiment">
+               <head>EXPERIM. XII. Proprieties.</head>
+               <p>
+                  <hi>Auguſt</hi> 12. I put Pigeons into two little Glaſs-pots, weighing them one after another, before I incloſed them in their frame: I preſt the fire till the drop of water would dry away in 5 ſeconds, and the inward preſſure was ten times as ſtrong as the ordinary preſſure of the Air. The Veſſels being cooled, I found both the covers ſticking pretty faſt to their Pots: ſo that it was apparent that the Air within the ſaid Pots was rarified, and that ſomething had got out of them. I weighed them one after the other being well dried, as I had done before the boiling and I found that one of them (wherein I had put, by
+<pb n="16" facs="tcp:50066:14"/>weight, an eighth part leſs of meat than the Veſſel could contain of water) was exactly the ſame weight as before, and the bones were very tender, and the Juyce a ſtrong Gelly without Empyreume. The other Pot (wherein I had put a greater weight of meat than it could hold of water) was grown heavier, and the Juyce in it was not ſo well congealed as in the other. It is very like that the great quantity of meat being too much rarified in this Pot had opened the cover, ſo as to admit ſome of the water from the <hi>Balneum Mariae</hi> which had increaſed the weight and diluted the Gelly; but in the firſt Pot the rarefaction of the meat was able only to drive out a little Air without any ſenſible opening of the cover.</p>
+               <p>From this Experiment I think we may conclude, that one Propriety of this Engine is, <hi>That if we boil Pigeons ſo as to make the drop of water dry away in</hi> 5 <hi>ſeconds with an inward preſſure ten times as ſtrong as the ordi<g ref="char:EOLhyphen"/>nary preſſure of the Air, the weight of the meat in the Pot muſt be but <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of that which the Pot can hold (ſeven pounds of meat, for example, in a Pot that can hold eight pounds of water) for by that means the preſſure in the Pot is as ſtrong as in the Engine; and yet nothing is loſt.</hi>
+               </p>
+               <p>In the ſixteenth Experiment you may ſee that the wa<g ref="char:EOLhyphen"/>ter being taken in the ſame weight, would do the ſame effect: ſo that ſome people would think that all other bodies ſhould be alſo taken in the ſame weight, becauſe thoſe that would take up leſs room upon the ſcore of their ſpecifick gravity, will by the ſame reaſon expand themſelves ſo much the more; but this would be a great miſtake: for I have tryed <hi>Chap.</hi> 6. <hi>Exper.</hi> 3. that Spirit of Wine, though of a leſſer ſpecifick gravity than Vine<g ref="char:EOLhyphen"/>gar, will nevertheleſs rarifie a great deal more by heat. Therefore (if we will be very exact not to loſe any thing, and to have the intended preſſure in the Pot) we muſt find by experience how far and how powerfully other bodies will rarifie, as in this Experiment I have found it
+<pb n="17" facs="tcp:50066:14"/>for Pigeons, to fill afterwards the Pot accordingly.</p>
+               <p>At the ſame time I had in another Engine ſome of the ſame Pigeons a boiling: the heat was ſuch, that it dryed a drop of water in 3 ſeconds; but the inward preſſure was but five times as ſtrong as the ordinary preſſure of the Air. The Veſſels being cooled, I found the bones not quite ſo ſoft as in the other Engine, though they had been in a greater heat: yet they were almoſt all fit to be eaten.</p>
+               <p>This Experiment makes me believe, that we may rec<g ref="char:EOLhyphen"/>kon this amongſt the Proprieties of this Engine, <hi>That it is almoſt the ſame thing to have the drop of water dry away in</hi> 3 <hi>ſeconds and five preſſures, as to have it dry away in</hi> 5 <hi>ſeconds, and ten preſſures in the Engine.</hi>
+               </p>
+               <p>So people may find out by experience in any other caſe what quantity of preſſure may do inſtead of a cer<g ref="char:EOLhyphen"/>tain quantity of heat: and if one had an exact Thermo<g ref="char:EOLhyphen"/>meter as I have ſaid in <hi>Chap.</hi> 2. one might perhaps draw from thence great lights for other things.</p>
+               <p>I ſay beſides, that this Experiment ſhews that good <hi>Balnea Mariae</hi> fitted to hold great preſſures, would ſave a great deal of fire: for we have ſeen <hi>Exper.</hi> 10. that the greater the inward preſſure is, the leſs coals will ſerve to bring the Engine to a certain heat: and now we ſee that ſuch a degree of heat raiſed with leſs coals, may produce a greater effect, than if we had been forced to beſtow more coals for it where this preſſure is wanting.</p>
+            </div>
+            <div n="13" type="experiment">
+               <head>
+                  <hi>FISH.</hi> EXPERIM. XIII.</head>
+               <p>
+                  <hi>June</hi> 15. I took a Macquerel and put it in a Glaſs-pot with green Gooſberries; I included the Pot in the En<g ref="char:EOLhyphen"/>gine, and with four ounces and two drams of coals I brought the heat to dry away the drop of water in 10 ſe<g ref="char:EOLhyphen"/>conds, and the inward preſſure was ſeven times as ſtrong as the ordinary preſſure of the Air. The fire being gone out by little and little, I found that the remaining coals weighed about two drams: the fiſh was very ready and firm, though the bones were ſo ſoft, as not to be felt in
+<pb n="18" facs="tcp:50066:15"/>eating: the fiſh, before it was boiled, did weigh nine ounces, and after boiling not above ſeven: ſo that I had two ounces of good Juyce, which would have been thrown away, if the fiſh had been boiled after the or<g ref="char:EOLhyphen"/>dinary way: and moreover the taſte was a great deal better, the volatile Salts not having got away, or been diſſolved in water: the Gooſe-berries had a very good taſte, and nothing of burning.</p>
+            </div>
+            <div n="14" type="experiment">
+               <head>EXPERIM. XIV.</head>
+               <p>
+                  <hi>June</hi> 19. I made the ſame tryal with a Pike, and I gave the fire, as in the former Experiment: the fiſh was found very ready, and its fleſh firm, and the bones ſoft, though they ſeemed ſomewhat harder than thoſe of the Macquerel. A Gentleman having taſted of this, inqui<g ref="char:EOLhyphen"/>red whether it was the diſſolving of the bones that made the fiſh ſo ſavoury: this perſwaded me, that my think<g ref="char:EOLhyphen"/>ing ſuch fiſh better than ordinary, was not out of pre<g ref="char:EOLhyphen"/>occupation. The Juyce of the Pike came to a ſtrong Gelly, which did not happen to that of the Macquerel. I cannot tell whether this difference proceeded from the nature of the fiſh, or from the temperature of the Air.</p>
+            </div>
+            <div n="15" type="experiment">
+               <head>EXPERIM. XV.</head>
+               <p>
+                  <hi>June</hi> 20. I took a great Eel, and having ſhut it up, as I uſe, I kindled four ounces and half of coals, ſo that the drop of water did dry away in 6 ſeconds, and the in<g ref="char:EOLhyphen"/>ward preſſure was ſeven times ſtronger than the ordinary preſſure of the Air: the fire being gone out of it ſelf, the Eel was found very ready, ſo was the skin and bones, and all without Empyreume; but its fleſh was not ſo firm as that of other fiſhes: the juyce did not congeal, which I think did proceed from the exceſs of fire rather than from the nature of this fiſh, ſince its skin ſeems very fit to make Gelly. All theſe Experiments make me believe that all fiſhes may be made ready almoſt with the ſame degree of heat.</p>
+            </div>
+            <div n="16" type="experiment">
+               <pb n="19" facs="tcp:50066:15"/>
+               <head>
+                  <hi>PULSES.</hi> EXPERIM. XVI.</head>
+               <p>
+                  <hi>July</hi> 2. I put Beans in a Glaſs-pot, ſome of which were raw, and the other had been boiled already with Harts<g ref="char:EOLhyphen"/>horn: I poured a little water into the pot to ſee the difference between thoſe Beans that would lye in the water, and thoſe that would be at the top of them above the water: I kindled the fire ſo as to dry away the drop of water in 5 ſeconds, and the inward preſſure ten times ſtronger than the ordinary preſſure of the Air; I took away the fire preſently, and the Veſſels being cooled, I found all the Beans very ſoft, and no difference between thoſe that had been boiled twice, and thoſe that had been but once; but thoſe at the top were full of wrin<g ref="char:EOLhyphen"/>kles and more ſavoury than thoſe in the bottom which were ſwelled with water: the skin was very ſoft, ex<g ref="char:EOLhyphen"/>cept a very thin one which was ſomewhat harder: ſo that it would be needleſs to take off the skin of ſuch Beans.</p>
+               <p>By this Experiment I was more-confirmed, that Ali<g ref="char:EOLhyphen"/>ments in this Engine may, when they are ready, be kept upon the fire a great while without danger.</p>
+               <div type="part">
+                  <head>Propriety.</head>
+                  <p>In the above-mentioned Experiment I was careful not to lay upon the rod LM more weight than was neceſſa<g ref="char:EOLhyphen"/>ry to make the inward preſſure ten times ſtronger than the ordinary preſſure of the Air: ſo that the <hi>Balneum Mariae</hi> being pretty hot, the great quantity of water was able to lift up the little valve at the top of the Pipe HH, and it ran ſlowly that way till I took off the fire; but when the fire was quite out, nothing more could get out, though the heat was ſtill ſuch as to dry away the drop of water in 5 ſeconds. So it is plain, that the remaining water had now room enough in the Engine to expand it ſelf, and that ſuch a degree of heat could not make it preſs ſtronger than ten ordinary preſſures of the Air. Therefore I was deſirous to ſee how large that room ought to be: to that end I opened my Engine
+<pb n="20" facs="tcp:50066:16"/>with ſo much warineſs, that I loſt no water; and ha<g ref="char:EOLhyphen"/>ving weighed all that I found in it, I ſaw that there had been loſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> or little leſs; becauſe out of eight ounces which I had firſt put into it, I found above ſeven re<g ref="char:EOLhyphen"/>maining. Therefore we may reckon this amongſt the Proprieties of this Engine, <hi>That if we put into it; of the water it can hold, and make ſuch a heat as to dry away the drop of water in</hi> 5 <hi>ſeconds, the inward preſſure ſhall be ten times ſtronger than the ordinary preſſure of the Air.</hi> After that ſame way one may find by experience how much room muſt be left empty for any other preſſure and for any other degree of heat we have a mind to make, and that will be neceſſary to know at Sea, as I have ſaid <hi>Chap.</hi> 2.</p>
+               </div>
+            </div>
+            <div n="17" type="experiment">
+               <head>EXPERIM. XVII.</head>
+               <p>
+                  <hi>July</hi> 15. I put ſome green Peaſe into two little Glaſs-pots, and poured water into one of them almoſt enough to cover the Peaſe, into the other I poured no water: I preſſed the fire till the drop of water would dry away in 4 ſeconds, and the inward preſſure was ten times as ſtrong as the ordinary preſſure of the Air. I took off the fire, and the Veſſels being cooled, I found the Peaſe extremely well ſoftned: thoſe without water had given juyce almoſt enough to cover them; their colour was of a dark red, and their ſmell and taſte had ſomewhat of burning; in the other pot the Peaſe were green ſtill and had a very good taſte, but not ſo high as thoſe without water. Having meited ſome freſh Butter, the taſte of the Peaſe without water did not ſeem to me too ſtrong with ſuch a Sauce, I liked them better than the other: Yet it will be better not to boil Peaſe ſo much, theſe having endured ſo much heat as would ſoften bones. The Peaſe which I had put in with the Cods were very ſoft and good, but the inner rinds of the Cods were not at all altered, though they had endured ſo much heat.</p>
+               <p>This Experiment ſeems to prove, that water is the beſt thing to hinder the burning of the Peaſe; but I believe that if many other things were added to fill up
+<pb n="21" facs="tcp:50066:16"/>the ſpaces between the Peaſe, it would do as well for that purpoſe: for I have tryed another time, that having boiled Gooſe-berries at the ſame time in the ſame pots both without water, with this only difference, that in one pot the Gooſe-berries were entire, and in the other they were bruiſed; it came to paſs, that the entire ones had contracted much Empyreume, though their glaſs was much emptier, and ſo the preſſure in it could not be ſo great; but thoſe that were bruiſed and did fill up the pot with their own juyce, had no taſte of burning. Therefore I would adviſe you, for the better ſucceſs of this Experiment, to fill up the ſpaces with the juyce of other Peaſe, becauſe being already ſatiated with the taſte of the Peaſe, it will not rob thoſe new ones that are to be boiled in it.</p>
+               <p>This Experiment ſhews, that many digeſtions may be perfected a great deal better in this Engine, where we may fill up the Glaſs, than in the ordinary way where much room muſt be left empty. It might alſo ſuggeſt good thoughts about the nature of the Empyreume; but it is better to ſtay for further tryals.</p>
+            </div>
+         </div>
+         <div n="3" type="chapter">
+            <head>
+               <hi>CHAP. III.</hi> Experiments for Voyages at Sea.</head>
+            <div n="1" type="experiment">
+               <head>EXPERIM. I.</head>
+               <p>THE greateſt inconveniency in long Voyages at Sea comes, according to the moſt common opinion, from the Victuals, which having been kept falted a great while, have loſt their volatile and ſpirituous parts, ſo that the remaining groſs and terreſtrial ones are apt to make a groſs and terreſtrial blood which cauſeth the Scurvy: Therefore it is likely, that Gellies being made of vola<g ref="char:EOLhyphen"/>tile parts, and eaſie to be digeſted, would be apt to correct that defect of the ſalt meat; but they uſe to be
+<pb n="22" facs="tcp:50066:17"/>ſo dear and ſo hard to be made, that it is rare to get any at Sea: this made me believe that it would be a good thing to find a way how to make them every where eaſie and cheap. Therefore</p>
+               <p>
+                  <hi>June</hi> 18. I took Beef-bones that had never been boil<g ref="char:EOLhyphen"/>ed, but kept dry a long time, and of the hardeſt part of the Leg: theſe being put into a little Glaſs-pot with water, I included in the Engine, together with another little Glaſs-pot full with bones and water too, but in this the bones were ribs, and had been boiled already. Having preſt the fire till the drop of water would dry away in 3 ſeconds and ten preſſures, I took off the fire, and the Veſſels being cooled, I found very good Gelly in both my pots; but that which was made out of ribs, had a kind of a reddiſh colour, which, I believe, might proceed from the medullar part; the other Gelly was without taſte or colour, like Harts-horn Gelly; therefore I do not ſee any reaſon why it ſhould not have the ſame effect; and I may ſay, that having ſeaſoned it with Sugar and Juyce of Lemmon, I did eat it with as much pleaſure, and found it as ſtomachical as if it had been Gelly of Harts-horn.</p>
+               <p>Though this Experiment be moſt neceſſary at Sea, yet it will be very uſeful upon Land too: Gellies being every where good for ſeveral diſeaſes, it will be very convenient to be able to make eaſily for one penny more than we could buy for a ſhilling.</p>
+            </div>
+            <div n="2" type="experiment">
+               <head>EXPERIM. II.</head>
+               <p>I filled again a Glaſs-pot with water and ſome of the hardeſt bones of a Leg of Beef: in another Glaſs-pot I put the bones of a Breaſt of Mutton that had been boiled already, but not ſoftned. Having ſhut them both in the ſame Frame, ſo that one was no more con<g ref="char:EOLhyphen"/>ſtrained than the other, and having incloſed them in <hi>Balneo Mariae,</hi> I preſt the fire till the drop of water would dry away in 9 ſeconds; but then it fell out, that the little Valve P not holding, becauſe I had put leather
+<pb n="23" facs="tcp:50066:17"/>to it, all the water from the <hi>Balneum Mariae</hi> got out with ſo much violence, that I was ſurpriſed at it: yet this laſted about a minute, becauſe the aperture was but little. No queſtion but at the ſame time the water in the Pots did expand it ſelf too and run over; for I found them much emptied: yet they did differ from one another, becauſe the liquor with Mutton-bones turned to a ſtrong Gelly, though the bones were not ſoftned but in ſome extreme parts, and that Gelly did weigh but <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leſs than the water I had put to it; in the other Pot the bones were not ſoftned at all, the liquor would never congeal, only it was a little thicker, and there had been above ¾ of it ſpilt, though this Pot had its brims a great deal higher than the other.</p>
+               <p>This Experiment made me believe: 1. That it would be better ſtill to provide Mutton-bones than Beef-bones. 2. That it would be to no purpoſe to undertake after the ordinary way to make Beef-bones gelly, becauſe it requireth ſuch a great heat, and ſo much water would be loſt by evaporation. 3. <hi>That Gelly is of a contexture much more difficult to be evaporated than ordinary water.</hi>
+               </p>
+            </div>
+            <div n="3" type="experiment">
+               <head>EXPERIM. III.</head>
+               <p>
+                  <hi>June</hi> 23. I put the ſame Beef-bones into the ſame Pot with new water, and the weight of the water was as much again as that of the bones: in the other Pot I put Griſtles with double their weight of water too. Having increaſed the fire till the drop of water would dry away in 3 ſeconds, and the inward preſſure ten times ſtronger than the ordinary preſſure of the Air, I kept the fire ſo for four or five minutes more, and then I took it off; and the Veſſels being cooled, I found the bones pretty brittle, but the liquor was not thick enough to be called Gelly: yet I believe if that which had been ſpent in the former boiling had been there ſtill, the Gelly had been ſtrong enough. The Griſles in the other Pot were al<g ref="char:EOLhyphen"/>moſt quite melted down, and were turned to a ſtrong Gelly from the bottom of the Pot to the middle of it,
+<pb n="24" facs="tcp:50066:18"/>but above that the liquor was no thicker than in the other Pot.</p>
+               <p>This Experiment made me think: 1. That one pound of Beef-bones might afford about two pounds of Gelly. 2. That it would be better to provide Griſles, becauſe they are wholly glutinous, and will diſſolve in water; but becauſe water is not ſo heavy, the Griſles will ſink and ſtay in the bottom, and imbibe juſt as much water as is neceſſary to make a Gelly. 3. That it is the Ce<g ref="char:EOLhyphen"/>ment that unites the parts of the bones which is diſſolved in the water to make it a Gelly: ſince after that the bones remain brittle.</p>
+            </div>
+            <div n="4" type="experiment">
+               <head>EXPERIM. IV.</head>
+               <p>
+                  <hi>June</hi> 29. I put more bones into two little Glaſs-pots than was neceſſary to congeal the water they were in: one was with Beef-bones, the other with Mutton-bones. I increaſed the fire till the drop of water did dry away in 3 ſeconds, with the inward preſſure ten times ſtronger than the ordinary preſſure of the Air. I kept the fire to that degree about a quarter of an hour, and then took off but part of it, leaving the reſt to keep the heat yet longer. The Veſſels being cooled, I found very good Broth without Empyreume in both the pots, but it did not turn to gelly, which, I think, could not proceed but from too much boiling: ſince in the former Experi<g ref="char:EOLhyphen"/>ments with leſs bones and leſs heat I had got a ſtrong Gelly.</p>
+               <p>From this Experiment it appears, that the degree of heat is much to be obſerved to make a great quantity of Gelly, and that it is not enough to keep it from bur<g ref="char:EOLhyphen"/>ning; for it might for all that be much over-done. Now that degree of heat which is beſt of all, cannot be found but by ſeveral Experiments.</p>
+            </div>
+            <div type="experiment">
+               <head>EXPERIM. V.</head>
+               <p>
+                  <hi>June</hi> 29. I put Beef-bones into one of the little Glaſs-pots with an equal weight of water; into the other I
+<pb n="25" facs="tcp:50066:18"/>put as much Ivory as I could, with water to fill up the chinks. I blew up the fire till the drop of water would dry away in 6 ſeconds with the inward preſſure twelve times as great as the ordinary preſſure of the Air: then I took off the fire as faſt as I could, and the Veſſels being cooled, I found that the Pot with Ivory had been broken, becauſe the Ivory that was crowded in it, ſwelling by hu<g ref="char:EOLhyphen"/>midity and heat, had been ſtronger than the Pot: the Ivory was grown brittle. In the other Pot the bones were not ſoftned yet but in ſome Apophyſes: the liquor was not congealed neither, except in the bottom; but the next day being a little cooler, I found it turned all to a Gelly, and I poured it upon ſeveral glaſs Plates that it might dry: the next day <hi>July</hi> 1. though it had been evaporating 24 hours, I found it melted again, becauſe, as I think, the weather was a little warmer. I uſed it to glue a broken glaſs which did, ſince that time, hold very well, and can be waſhed as well as if it had never been broken.</p>
+               <p>From this Experiment I judged; 1. That the heat had been too weak, as in the foregoing it had been too ſtrong: and ſo to bring the bones to a good gelly, the fire ſhould be augmented, as in <hi>Exper.</hi> 1. or thereabout. 2. <hi>I was more fully perſwaded that it is the glue of the bones which is diſſolved to make gelly.</hi> 3. <hi>I found that very few glutinous parts are ſufficient to congeal much water; for though this had been congealed in Summer-time in a Garret, yet when it was dryed I had ſo ſmall a quantity of glue remaining, that I was ſurpriſed at it.</hi> 4. <hi>I found that a very little heat is enough to hin<g ref="char:EOLhyphen"/>der theſe congelations, and therefore in all appearance the quantity of gelly would be much greater in Winter than in Summer-time from the ſame quantity of Ma<g ref="char:EOLhyphen"/>terials.</hi> 5. <hi>That ſuch Congelations are very differing from thoſe that are made meerly by cold, ſince the Ice ſwims at the top, but Gelly ſinks to the bottom of the water.</hi>
+               </p>
+               <p>To uſe the glue here ſpoken of, it muſt be kept clean,
+<pb n="26" facs="tcp:50066:19"/>and when we have occaſion to uſe it, we muſt diſſolve ſome of it with three or four drops of clean water to wet the brims of the glaſs, and then joyn them, as before, as exactly as we can: the ſame may be applied to China<g ref="char:EOLhyphen"/>diſhes, Ivory, Amber, and ſuch other brittle bodies.</p>
+            </div>
+            <div n="6" type="experiment">
+               <head>EXPERIM. VI.</head>
+               <p>
+                  <hi>July</hi> 1. I filled two glaſs-pots, the one with one ounce of ſhavings of Harts horn and two ounces of water, the other with an ounce of Whitings bones and two ounces of water. Having continued the fire till the drop of water would dry away in 7 ſeconds with the inward preſſure twelve times ſtronger than the ordinary preſſure of the Air, I took off the fire preſently, and the Veſſels be<g ref="char:EOLhyphen"/>ing cooled, I found a very ſtrong gelly in the Pot with Harts-horn: I gave ſome of it to a perſon that makes ſuch Gellies pretty often, and ſhe ſaid that there muſt be ſomething more in this than in hers, becauſe this had both ſmell and taſte pretty ſtrong; but in hers there was neither of them. I think this difference did proceed only from the Spirits and volatile Salts that are kept in by means of the Engine faſtned with Screws, and that fly away in the ordinary boiling: and from thence it is very probable, that this new gelly hath much more virtue in it. The Harts-horn alſo was all very ſoft; but in the or<g ref="char:EOLhyphen"/>dinary way it is brought but to a powder that feels hard between the fingers.</p>
+               <p>
+                  <hi>In the other Pot the fiſh-bones were quite ſoft, but the liquor would not congeal: yet being dryed, there was found ſome glue remaining, but in ſmall quantity, and not ſo ſtrong as that of Beef bones.</hi>
+               </p>
+            </div>
+            <div n="7" type="experiment">
+               <head>EXPERIM. VII.</head>
+               <p>
+                  <hi>July</hi> 2. I filled two glaſs-pots, the one with half an ounce of Harts-horn and two ounces and half of water, the other with bones and water in the ſame proportion as five to one, and the bones were ſhaved as well as the Harts-horn. Having augmented the fire till the drop of
+<pb n="27" facs="tcp:50066:19"/>water would dry away in 5 ſeconds with ten preſſures, I took it off quickly: the next day I opened the Veſſels, and found that in the pot with bones the liquor was but little thicker than water; in the other there was a good gelly, but not ſo ſtrong as that in the foregoing Experi<g ref="char:EOLhyphen"/>ment: I heated it again, and as ſoon as it was melted I filtrated it and ſqueezed it as well as I could, and I ſet the remainder a drying, (<hi>that remainder being dryed after a weeks time was found to weigh</hi> 2 ¾ <hi>drams: ſo that all the congealing parts drawn from the Harts-horn did weigh but</hi> 1 ¼ <hi>dram, and that had been enough to congeal</hi> 2 ½ <hi>ounces of liquor which is</hi> 16 <hi>times as much weight</hi>) the liquor that had been filtrated did in a ſhort time turn to a gelly much ſtronger than Harts-horn gelly uſes to be: therefore I believe I may be confident that a certain quantity of Harts-horn will congeal five times its weight of water; and it may be by practiſing there will be found ſome degree of heat that will make more: but though we could do no more, yet this would be a conſiderable thing, ſince in the ordinary ways the quantity of gelly is leſs by half and not ſo good, and it requires much more fire, and time, and freſh water, which is of conſequence at Sea: For although I muſt needs have water to make gelly after my way, that wa<g ref="char:EOLhyphen"/>ter is not loſt, ſince it remains all in the gelly; but if you make it after the ordinary way, above three quarters of the water will evaporate away.</p>
+            </div>
+            <div n="8" type="experiment">
+               <head>EXPERIM. VIII.</head>
+               <p>Having found by the laſt Experiment that Harts-horn doth yield ſo much gelly more than the bones do, I had a mind to try whether the reaſon of it was not becauſe the degree of heat was fit for Harts-horn, but not ſtrong enough for bones: Therefore I repeated the ſame Expe<g ref="char:EOLhyphen"/>riment with the ſame circumſtances, but at this time I in<g ref="char:EOLhyphen"/>creaſed the fire till the drop of water would dry away in 4 ſeconds: and the Veſſels being cooled, I found the gelly of Harts-horn pretty good ſtill, but the liquor upon
+<pb n="28" facs="tcp:50066:20"/>the bones was not very thick: yet I found ſome gelly after I had poured out gently the over-ſwimming liquor, but that liquor weighed above an ounce: ſo I thought that truly the bones do not contain ſo much congealing parts as Harts-horn doth. Having filtrated and ſqueez<g ref="char:EOLhyphen"/>ed the matters of both my Pots, I kept the remainders of them aſunder each in a glaſs well ſtopt, for fear they ſhould dry, and about two weeks after I found them fermented, and of the ſame ſmell and taſte as Parmezan Cheeſe, and very fit to be eaten with bread. When I had ſhewn ſuch Harts-horn to the Royal Society, they judged that in all likelihood, being in that condition, it would yield more Spirits and more eaſily than uſually it doth. The bones were in all things very like the Harts-horn, and ſome time after worms were generated in them, which did not happen to the Harts-horn: ſo that it being uſual to ſee worms generated in good rather than in bad Cheeſe, it ſeems that in this the bones have ſome advantage above the Harts-horn, as well as the Harts-horn is to be preferred to them for the quantity of gelly it yields.</p>
+               <p>
+                  <hi>Having found ſome difference both for the quantity and for the readineſs in drawing Gellies from ſeveral Bodies, as alſo for the ſtrength of that kind of glue, I believe there might be found a difference in ſeveral other Proprieties of them; and ſeeing our bodies are but congealed liquors, it is likely, that if people would go on with this tryal and draw Gellies from ſeveral parts of the ſame Animal, and from ſeveral Animals of the ſame kind, but of different ages, and from ſeve<g ref="char:EOLhyphen"/>ral kinds of Animals that live a great deal longer one than the other, as from Harts and Rabbets; and then if they would compare all the ſeveral proprieties of theſe Gellies with one another, it is likely, I ſay, that it would be a great help towards making a better Theory than hitherto we have about the cauſes of the laſting<g ref="char:EOLhyphen"/>neſs of our life: and ſuch a Theory would, it may be, prove of more conſequence than many people are apt to believe.</hi>
+               </p>
+               <pb n="29" facs="tcp:50066:20"/>
+               <p>From all the Experiments contained in this Chapter, I think it very likely, that if people would be perſwaded to lay by Bones, Griſtles, Tendons, Feet, and other parts of Animals that are ſolid enough to be kept without Salt, whereof people throw away more than would be neceſ<g ref="char:EOLhyphen"/>ſary to ſupply all the Ships that <hi>England</hi> hath at Sea; the Ships might always be furniſht with better and chea<g ref="char:EOLhyphen"/>per Victuals than they uſe to have. And I may ſay, that ſuch Victuals would take up leſs room too, becauſe they have a great deal more nouriſhment in them in propor<g ref="char:EOLhyphen"/>tion to their weight. This is plain in Harts-horn, which will make five times its weight of gelly, (which is ac<g ref="char:EOLhyphen"/>counted to be of a great nouriſhment) and yet afterwards it will turn to a ſubſtance very like Cheeſe which cannot be eaten in great quantity.</p>
+            </div>
+            <div n="9" type="experiment">
+               <head>EXPERIM. IX.</head>
+               <p>
+                  <hi>June</hi> 20. I boiled two Macquerels in the ſame manner as hath been deſcribed <hi>Chap.</hi> 2. <hi>Exper.</hi> 13. ſo that their bones were ſoft: then I left one dry in the open Air, and having kept it for eight days, though in very hot wea<g ref="char:EOLhyphen"/>ther, it was not corrupted at all; but another piece which I kept in the ſauce was corrupted before three days.</p>
+               <p>I had a mind to try afterwards, whether an ordinary boiling would have the ſame effect: and to that end <hi>June</hi> 26. I boiled a Macquerel after the ordinary way, and having ſet it to dry, as I had done with the other, I found that it would ſtink in leſs than four days. From this Experiment I believe it appears, that this Engine would be uſeful to dry Victuals ſo as to keep them with<g ref="char:EOLhyphen"/>out Salt, and without loſing their juyce, and it may be ſuch Victuals will prove much more wholeſom than ſalt Victuals that are ſo much uſed at Sea.</p>
+            </div>
+            <div n="10" type="experiment">
+               <head>EXPERIM. X.</head>
+               <p>This Engine being ſo uſeful to hinder the waſting of freſh water by evaporation, I thought it might alſo in
+<pb n="30" facs="tcp:50066:21"/>ſome caſes make Sea-water ſerve inſtead of freſh water: Having therefore diſſolved one dram of Salt in forty drams of water, (which I have heard from Mr. <hi>Boyle</hi> to be much the ſame proportion of Salt as is in Sea-water) I took an ounce of dry Peaſe, and having put them in a glaſs-pot with double their weight of the ſaid ſalt water, I included them in the Engine. I blew up the fire till the drop of water would evaporate in 4 ſeconds, with an inward preſſure ten times ſtronger than the ordinary preſſure of the Air. The Veſſels being cooled, I found that the Peaſe had imbibed all the water, and were very well ſoftned; and Dr. <hi>King</hi> having taſted the ſame, found them very ſavoury and not too much ſalted: it is very likely that Beans and all other Pulſe will do the ſame. I think therefore that in ſupplying a Ship with Victuals, we may reckon that the Pulſe will change double their weight of Sea-water into freſh water, or at leaſt make it ſerve for nouriſhment as well as if it had been freſh, and this may diminiſh very much the quantity of freſh water Ships muſt be incumbred with. If people ſhould uſe Sea<g ref="char:EOLhyphen"/>water to boil Peaſe in after the ordinary way, it would come to paſs, that the evaporation waſting but the watry parts, would make the Peaſe exceeding ſalt, and beſides that, they could never be well ſoftned.</p>
+               <p>I did alſo try whether Sea-water could be uſed to make Gellies, therefore I put ſome of the ſame ſalt water into a pot with an equal weight of Mutton-bones; and having increaſed the fire, as I uſe to make Mutton-bones gelly, I found a very ſtrong gelly indeed, but it was too ſalt by a great deal, the quantity of congealing parts being ſo little, that it cannot much contemperate the ſaltneſs of the water: I think therefore that Sea-water ſhould be min<g ref="char:EOLhyphen"/>gled with double its weight of freſh water to make gelly withal.</p>
+            </div>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="31" facs="tcp:50066:21"/>
+            <head>
+               <hi>CHAP. IV.</hi> Experiments for Confectioners.</head>
+            <div n="1" type="experiment">
+               <head>EXPERIM. I.</head>
+               <p>
+                  <hi>J<g ref="char:V">Ʋ</g>ne</hi> 27. I put Cherries into two Pots, in one of them there was water enough to cover the Fruit; to the other I added nothing at all: having forced the fire till the drop of water would dry away in 40 ſeconds, with the inward preſſure 3 times ſtronger than the ordinary preſſure of the Air, I found the Cherries very well boil<g ref="char:EOLhyphen"/>ed, and thoſe had much juyce where I had added no wa<g ref="char:EOLhyphen"/>ter, thoſe with water had much more liquor, but their taſte was more wateriſh.</p>
+               <p>The next day I put ſome of theſe Cherries to dry in the open Air, and I put ſome alſo to boil again with Gooſe-berries, to ſee whether a new boiling would ſpoil them: I blew up the ſire till the drop of water would dry away in 10 ſeconds, with the inward preſſure eight times ſtronger than the ordinary preſſure of the Air, and after that I did not find the Cherries at all altered, but were ſtill as big and as entire as before they had been boiled; I put ſome of theſe alſo to dry in the open Air. The next day I found that all theſe Cherries would dry very well and not corrupt; but thoſe that had been boiled but once without water were bigger than all the reſt, and thoſe that had been boiled twice were very wrinkled and grown ſmaller than the others that had been as long again a drying.</p>
+               <p>This Experiment ſhews that ſome Fruit may without danger remain a great while upon the fire in this Engine after they have been boiled enough, and that makes them to be not ſo fit to corrupt as they were before: therefore I believe, if thoſe who are skilful that way, would make a Syrup to keep ſuch Fruit in without dry<g ref="char:EOLhyphen"/>ing, they might have Sweet-meats, which not having
+<pb n="32" facs="tcp:50066:22"/>been boiled in Sugar, would keep much better the taſte of the Fruit; but I think the Syrup ſhould be thicker than uſual, becauſe the moiſture of the Fruit is apt in a little time to mingle with it, and make it more liquid.</p>
+               <p>Experience muſt teach us what degree of heat will be the beſt to preſerve Fruit without much altering its taſte.</p>
+            </div>
+            <div n="2" type="experiment">
+               <head>EXPERIM. II.</head>
+               <p>
+                  <hi>July</hi> 6. I put into a pot ſive ounces of Gooſe-berries, and having continued the fire till the drop of water would dry away in 15 ſeconds, I preſently put it out. The Veſſels being cooled, I found that the Gooſe-berries had yielded an ounce and half of liquor pretty thick: I put ſome of theſe Gooſe-berries to dry in the open Air, and they did dry very well and not corrupt.</p>
+               <p>This Experiment made me the more apt to believe that Sweet-meats might be ſo ordered as to keep much of the taſte of the Fruit; and I believe at the ſame time one might have a great conveniency to make clear Cakes, becauſe the juyce ſit for that purpoſe is all kept in this Engine, and may be drawn a great deal ſooner than after the ordinary ways.</p>
+            </div>
+            <div n="3" type="experiment">
+               <head>EXPERIM. III.</head>
+               <p>
+                  <hi>July</hi> 22. Three weeks ago I ſhut up ripe Gooſe-berries in a great glaſs, and put to them water ſatiated with Sugar to ſill up the interſtices: to day ſeeing theſe Gooſe-ber<g ref="char:EOLhyphen"/>ries ferment apace and make abundance of bubbles, I put ſome of them in a glaſs-pot with ſome of their liquor, and having incloſed it in the Engine, I continued the fire till the drop of water did dry away in 6 ſeconds, with an inward preſſure five times ſtronger than the ordinary preſſure of the Air. I took off the fire, and the Veſſels being cooled, I found the Gooſe-berries very well boiled, ſoft, and of a good taſte: though the Fermentation had made them hard and unpleaſant to the palate. I included at the ſame time another pot full with freſh Gooſe-berries, to which I added one part of Sugar to five parts of Fruit:
+<pb n="33" facs="tcp:50066:22"/>I found them alſo very ready, and of a very pleaſing taſte, but much more ſweet than thoſe that had been fermented.</p>
+               <p>After I had left theſe two glaſs-pots for ten days to<g ref="char:EOLhyphen"/>gether well covered, but not above ⅓ full, I ſaw no Fermentation in them; but the Fruit grew a little mu<g ref="char:EOLhyphen"/>ſty in the pot containing thoſe Gooſe-berries that had never been fermented; but in the other pot there was no change at all: ſo that it ſeems the Fermentation be<g ref="char:EOLhyphen"/>fore boiling is a remedy againſt corruption. I took the Fruit that grew muſty, and having exactly filled a leſſer glaſs with it, I faſtned a good cover to it with a Screw, this prevented further corruption; and that ſame Fruit in five or ſix days began to ferment, and the juyce ran over, though the Screw preſt the cover pretty hard.</p>
+               <p>
+                  <hi>Auguſt</hi> 30. I opened that ſame glaſs whoſe cover was faſtned with a Screw, and having put ſome of the Fruit and Juyce into a little glaſs-pot, then having ſhut all in the Engine, I increaſed the fire till the drop of water dried away in 6 ſeconds, with an inward preſſure twelve times ſtronger than the ordinary preſſure of the Air. I took off the fire, and the Veſſels being cooled, I found the Gooſe-berries had, by boiling again, loſt much of their ſweetneſs, but their taſte was very pleaſing, it may be many people would like it better than before: having put ſome of their Juyce into a glaſs, and ſome of the Juyce that had not been boiled again into another glaſs, I put them both together <hi>in Vacuo,</hi> and I ſaw that the Juyce twice boiled had given over fermenting, becauſe it did not bubble, but the other did mightily.</p>
+               <p>From all I have ſaid in this Experiment I believe I may conclude: 1. That if we keep Fruit, as I have ſaid in the beginning, that is to ſay, if we let them ferment ſoftly in Veſſels well ſtopt, we may at any time make with them very good Sweet-meats at a cheap rate, by the help of the Engine that will ſoften the Fruit, and keep the Spirits from evaporating. 2. There will be leſs danger of growing muſty when the Fruit hath been boil<g ref="char:EOLhyphen"/>ed
+<pb n="34" facs="tcp:50066:23"/>ſo during the Fermentation. 3. If any muſtineſs appears, we may hinder it by filling up the Veſſels and faſtning the cover with a Screw. 4. If the Fermenta<g ref="char:EOLhyphen"/>tion begins again, we may ſtop it by a new boiling. Yet this Experiment ought to be continued ſome time longer before we can be aſſured how far it will go. I do not here deſcribe the way how to faſten a cover to a glaſs with a Screw, ſince it is the ſame that hath been ſaid in <hi>Chap.</hi> 1. for the Pot GG, and people that would make a great Trade of that kind, might inſtead of glaſſes make uſe of high earthen pots.</p>
+            </div>
+            <div n="4" type="experiment">
+               <head>EXPERIM. IV.</head>
+               <p>
+                  <hi>Auguſt</hi> 17, &amp; 18. I repeated the ſame Experiment; but inſtead of Gooſe-berries I made uſe of Plums, I boil<g ref="char:EOLhyphen"/>ed ſome of them three ſeveral times, but I learned no<g ref="char:EOLhyphen"/>thing worth relating, only that Plums, after they are boiled, fermenting with ½ or ¼ of Sugar, will taſte like Wine, ſtronger and more pleaſing than Gooſe-berries, and I do not queſtion but many men will approve of this pleaſant reliſh beyond that of moſt Sweet-meats. I did alſo obſerve, that when I diſtilled them in the man<g ref="char:EOLhyphen"/>ner deſcribed <hi>Chap.</hi> 6. <hi>Exper.</hi> 3 they yielded juyce in a greater quantity and thicker than when boiled, as the Gooſe-berries before-mentioned were.</p>
+            </div>
+         </div>
+         <div n="5" type="chapter">
+            <head>
+               <hi>CHAP. V.</hi> Experiments to make Drinks.</head>
+            <div n="1" type="experiment">
+               <head>EXPERIM. I.</head>
+               <p>
+                  <hi>J<g ref="char:V">Ʋ</g>ly</hi> 22. I included, two or three weeks ago, ſome ripe Gooſe-berries in a great glaſs, and filled all the interſtices with water and Sugar: to day ſeeing the Fruit did ferment apace, I took out ſome with the liquor, and filled therewith ⅘ of a little glaſs-pot; then I made uſe
+<pb n="35" facs="tcp:50066:23"/>of ſome of this liquor alone to fill another glaſs-pot, wherein I had put ſome freſh Gooſe-berries unfermen<g ref="char:EOLhyphen"/>ted: having included theſe two pots in the ſame frame and in the ſame Engine, I advanced the fire till the drop of water would dry away in 2 ſeconds, and kept it ſo for a while; the inward preſſure was ten times ſtronger than the ordinary preſſure of the Air. The Veſſels be<g ref="char:EOLhyphen"/>ing cooled, I found the pot containing the fermented Gooſe-berries to be half empty and mightily burnt; but the Veſſel containing the freſh Gooſe-berries was ſcarce at all the emptier, though there were in it a good deal of fermented liquor which had no taſte of burning.</p>
+               <p>From this Experiment I concluded, that when Wine is made ſo by infuſing fruit in water and Sugar, there is much more ſtrength in the fruit than in the liquor: ſo that the fruit by fermenting comes to be near as apt to rarifie as Spirit of Wine it ſelf (ſee <hi>Chap.</hi> 6. <hi>Exper.</hi> 2.) Therefore I though if I did make Wine with fruit alone without water, it would be mighty ſtrong; but becauſe the juyce of Gooſe-berries and ſeveral other Fruits are too thick to make Wine withal, unleſs they be boiled, I think that this ſcrewed Engine is very neceſſary to boil theſe Juyces, ſeeing we can perform it without water, and without evaporating the moſt ſubtile parts, there<g ref="char:EOLhyphen"/>fore I made the following Experiment.</p>
+            </div>
+            <div n="2" type="experiment">
+               <head>EXPERIM. II.</head>
+               <p>
+                  <hi>July</hi> 25. I put ripe Gooſe-berries into a Pewter-pot, and having incloſed it in the Engine, I continued the fire till a drop of water would dry away in 3 ſeconds, with an inward preſſure ten times ſtronger than the or<g ref="char:EOLhyphen"/>dinary preſſure of the Air: I preſently took off the fire, and the Veſſels being cooled, I found that the Gooſe-berries had yielded a very red juyce, and that in the places where the Gooſe-berries had been burſt next to the Pewter pot, they had acquired a very fine purple Violet colour.</p>
+               <p>I put this morning ſome of the ſame ripe Gooſe-ber<g ref="char:EOLhyphen"/>ries
+<pb n="36" facs="tcp:50066:24"/>with water and Sugar into a glaſs Veſſel well ſtopt; and afterwards I put ſome of the Gooſe-berries, newly taken out of the Engine, into another glaſs with ſome of their Juyce and ¼ of Sugar, that I might ſee which of them would ferment ſooner and better.</p>
+               <p>
+                  <hi>Auguſt</hi> 2. Two or three days ago I ſaw the Gooſe-berries ferment in both glaſſes much alike, and to day having taken ſome of the Juyce out of the two glaſſes, I put them ſeverally into two Vials, and then I put them both together <hi>in Vacuo,</hi> where I obſerved, according to my expectation, that the Juyce of thoſe Gooſe-berries that had been boiled, was much more like the nature of Wine than the liquor of the other glaſs, for that bub<g ref="char:EOLhyphen"/>bled more, and its taſte was more pungent and ſpiri<g ref="char:EOLhyphen"/>tuous.</p>
+               <p>
+                  <hi>Auguſt</hi> 3. I ſeparated the boiled Gooſe-berries from their Juyce, and ſqueezed them that they might yield more: I put all that Juyce into a Bottle which I have kept ever ſince, that is, near ſix weeks. For two or three days in the beginning that liquor fermented migh<g ref="char:EOLhyphen"/>tily, threw out the Cork and ran over, though it was not <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> full; but ſince that time it hath been much abated, and now its taſte is very good and pungent, yet it doth ferment ſtill, ſeveral bubbles ariſing in it, and it is not clarified: this makes me believe that ſuch Wine may be kept for a great while, and that it is to be feared rather that it will be too long a making, than that it will grow four too ſoon.</p>
+               <p>I put the remainder of the ſqueezed Gooſe-berries into another Glaſs with water and a little Sugar: this in leſs than 24 hours began to ferment very violently, and in a fortnight the liquor was pretty well clarified and good to drink, but not ſo ſtrong as that without water, and I believe alſo it would have grown four in a ſhort time. This Experiment was made by gueſs and without Scales; but I gueſt the fruit to have been about ½ of the weight of the water, and the Sugar <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>From this Experiment we ſee that the ſame fruit, by
+<pb n="37" facs="tcp:50066:24"/>means of this Engine, may afford two ſorts of Wine; the one to keep long, and the other to drink quickly.</p>
+            </div>
+            <div n="3" type="experiment">
+               <head>EXPERIM. III.</head>
+               <p>
+                  <hi>Auguſt</hi> 5. I took ſome of the Juyce of the Gooſe-ber<g ref="char:EOLhyphen"/>ries above-mentioned, in the time it did ferment moſt briskly, and having put it into a little glaſs-pot, and then in the Engine, I continued the fire till the drop of water would dry away in 10 ſeconds, with an inward preſſure three times ſtronger than the ordinary preſſure of the Air. I found that the liquor had got a taſte near to that they call in <hi>France raiſiné,</hi> and it was pleaſing to drink, and apt to quench thirſt. Then that I might know whether the liquor had been much altered by boiling in the Engine, I put ſome of it into a little glaſs, and took ſome alſo out of the great Bottle that was a fermenting, and having put it into another glaſs, I in<g ref="char:EOLhyphen"/>cluded them both at the ſame time <hi>in Vacuo,</hi> and found that the liquor which I had ſet upon the fire during its fermentation, did not bubble ſo much as common water would do; but the other liquor did at the very firſt ſuction riſe all into bubbles.</p>
+               <p>From this Experiment I gueſs: 1. That by boiling a Liquor, whilſt it ferments, we may quickly take away the ill quality it hath to generate winds, and cauſe pains in the Belly. 2. That ſuch a liquor would not hurt the Head neither, as Wine doth, becauſe the Spirits are not yet quite ſo looſe, as they are in Wine: and this appears, becauſe the Wine boils in ſome meaſure <hi>in Vacuo Boy<g ref="char:EOLhyphen"/>liano,</hi> but this liquor doth hardly yield any little bub<g ref="char:EOLhyphen"/>bles. 3. That ſuch a liquor would not eaſily dye, ſince the Spirits can ſo hardly extricate themſelves: And laſt<g ref="char:EOLhyphen"/>ly, I am very apt to believe that it would be a good nouriſhing and ſtrengthning Drink, ſince Bread is rec<g ref="char:EOLhyphen"/>koned to be the ſtaff of life which is put into the Oven, even during its fermentation: yet we muſt expect fur<g ref="char:EOLhyphen"/>ther Experiments before we can have any certainty of it; in the mean time we may be ſure that ſuch drink may be got ready pretty ſoon.</p>
+            </div>
+            <div n="4" type="experiment">
+               <pb n="38" facs="tcp:50066:25"/>
+               <head>EXPERIM. IV.</head>
+               <p>
+                  <hi>Auguſt</hi> 17. I took Juyce of Plums diſtilled after the manner to be deſcribed <hi>Chap.</hi> 6. <hi>Exper.</hi> 3. and becauſe it was thicker than that which is drawn without diſtilling (for the Juyce which remains in the heat with the fruit, is thereby continually attenuated) I thought I ſhould uſe more heat to attenuate the ſame: therefore having ſhut it after the ordinary way, I continued the fire till the drop of water would dry away in leſs than 2 ſeconds, with an inward preſſure twelve times ſtronger than the ordinary preſſure of the Air: I took away the fire, and the Veſſels being cooled, I found (contrary to my expe<g ref="char:EOLhyphen"/>ctation) that the Juyce was become almoſt all ſolid from the top to the bottom of the pot, and that it was turned into a black ſtuff much burnt which could eaſily be powdered between ones fingers; yet there were many cavities full with a very fluid liquor, which had ſuch an acrimony, that the Tongue could hardly endure it: ſo that the heat did work upon that Juyce almoſt the ſame effect as the Runnet doth upon Milk.</p>
+               <p>I have kept for two months together ſome of the ſame diſtilled Juyce of Plums, and I found that it was not at all grown hard, as that which had been in ſuch a great heat was; but it hath fermented very little in compari<g ref="char:EOLhyphen"/>ſon with thoſe that are more ſluid.</p>
+               <p>This Experiment ſhews that the degree of heat is to be well obſerved in making Drink, not to give too much nor too little: and that diſtillations of Juyces may in<g ref="char:EOLhyphen"/>deed prove very good to make clear Cakes, Gellies, Sy<g ref="char:EOLhyphen"/>rups, &amp;c. but for Drinks, ordinary boiling, as I have ſaid of Gooſe-berries, will do better: yet in time it may be, ſuch thick Juyces will make ſtronger Wines than thinner ones; but I am afraid that will require many years.</p>
+            </div>
+            <div n="5" type="experiment">
+               <head>EXPERIM. V.</head>
+               <p>
+                  <hi>Auguſt</hi> 17, 18, &amp;c. I kept Juyces of Plums to make
+<pb n="39" facs="tcp:50066:25"/>the ſame Experiments, as I have ſaid of Gooſe berries; but I think it needleſs to give the particulars of them, becauſe I learnt nothing new by them, but that Damſons, if they be not too ripe nor over-boiled, will make Wine much ſtronger than Gooſe-berries: and that having mingled a little Juyce that was a fermenting with a Bottle of Juyce newly drawn, this mixture did, like a Ferment, haſten the fermentation in the ſaid Bottle.</p>
+            </div>
+         </div>
+         <div n="6" type="chapter">
+            <head>
+               <hi>CHAP. VI.</hi> Experiments for Chymiſts.</head>
+            <div n="1" type="experiment">
+               <head>EXPERIM. I.</head>
+               <p>
+                  <hi>J<g ref="char:V">Ʋ</g>ly</hi> 13. Dr. <hi>Slare,</hi> Fellow of the Royal Society, had a mind to try whether the Engine could not be uſe<g ref="char:EOLhyphen"/>ful to draw quickly the moſt ſtubborn Tinctures in Chy<g ref="char:EOLhyphen"/>miſtry; therefore we put into a little glaſs pot Salt of Tartar with rectified Spirit of Wine: into another pot we put Amber with ſome of the ſame Spirit of Wine. We continued the fire till the drop of water would dry away in 3 ſeconds, with an inward preſſure twelve times ſtronger than the ordinary preſſure of the Air, and then we did put it out preſently. The Veſſels being cooled, we found in the firſt pot that the tincture of Tartar was as ſtrong as it could have been made in a months time after the ordinary way, and its taſte was lixivious; in the other pot the tincture of Amber was a great deal ſtronger than uſually it is.</p>
+            </div>
+            <div n="2" type="experiment">
+               <head>EXPERIM. II.</head>
+               <p>
+                  <hi>July</hi> 15. Dr. <hi>Slare</hi> had alſo a mind to make a tryal of the tincture of Antimony: the fire was lighted by 10 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the clock in the morning, 1 continued it till the drop of water would dry away in 2 ſeconds, with an inward preſſure twelve times ſtronger than the ordinary preſ<g ref="char:EOLhyphen"/>ſure
+<pb n="40" facs="tcp:50066:26"/>of the Air: I took off ſome part of the fire, ſo that the heat being diminiſhed, the drop of water did eva<g ref="char:EOLhyphen"/>porate but in 3 ſeconds, and nothing could get out of the Engine; I kept the fire much about that ſame ſtrength till 1 in the afternoon, then I left it till about three of the clock, at which time I found the Veſſels much cool<g ref="char:EOLhyphen"/>ed, and the fire almoſt out. I lighted it again, ſo that the drop of water would evaporate in 1 1/<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſecond, and then I ſaw again ſomething get out through the little Valve P, and I took off ſome of the fire till the drop of water would dry away but in 2 ſeconds, and then the Engine was very tite again. I let the fire go out of it ſelf, and found that the Vinegar had drawn a very little tincture from the Antimony, though the heat had been much ſtronger and longer than in the former Experi<g ref="char:EOLhyphen"/>ment for the tincture of Salt of Tartar.</p>
+               <p>A while after when I would empty the pot, I found that the Antimony was come into a lump as if it had been melted, and that the upper part was red, and the bottom blackiſh; ſo that it ſeems the tincture had been drawn and then precipitated.</p>
+               <p>We did alſo take notice of a great difference between Spirit of Wine and diſtilled Vinegar; for in <hi>Exper.</hi> 1. the heat had given ſuch a great ſtrength to the Spirit of Wine to expand it ſelf, that moſt of it had run over from the pot which was thereby above half emptied: but on the contrary, the Spirit of Vinegar had been ſo little able to expand it ſelf, that the preſſure in the Engine being equal, if not ſtronger than that in the pot, this was not at all emptied, but ſtill full to 1/<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, though the heat had been ſtronger than upon the Spirit of Wine, and the preſſure in the Engine had been equal in both Experiments.</p>
+            </div>
+            <div n="3" type="experiment">
+               <head>EXPERIM. III.</head>
+               <p>
+                  <hi>Auguſt</hi> 9. I put ſome Roſemary into a long glaſs pot, but it was held up by a Wyre-Diaphragme, ſo that it was diſtant from the bottom by a third part of the length of the pot: I kindled the fire towards the top of the En<g ref="char:EOLhyphen"/>gine,
+<pb n="41" facs="tcp:50066:26"/>that the bottom remaining cold, the vapors of the Roſemary might condenſe in the bottom of the pot: I continued the fire till the drop of water upon the cover would evaporate in 6 ſeconds; but the bottom was al<g ref="char:EOLhyphen"/>moſt cold. Afterwards I found that the Roſemary had yielded ſome red water and pretty fragrant, about the weight of a dram, and beſides that two or three drops of eſſential Oyl of a very ſweet ſmell, and of a contexture ſomewhat like Butter, being thicker than Oyl uſeth to be.</p>
+               <p>This way of diſtilling is to be preferred to the ordi<g ref="char:EOLhyphen"/>nary ways: 1. Becauſe there is no danger of loſing any thing. 2. Becauſe the vapors may deſcend more eaſily than get up: So that being put in motion by the gentle heat of the <hi>Balneum Mariae,</hi> and preſently fal<g ref="char:EOLhyphen"/>ling down by their heavineſs, they can preſerve their own nature much better than when, being expoſed to a fire leſs kind, they muſt receive from it a motion ſtrong enough to raiſe them to a conſiderable height, which can hardly be done without altering their nature. 3. In ordinary Diſtillations there ſticks always ſome Oyl to the head, which doth not come into the receiver; but here there is no ſuch danger, ſince there is no head, the receiver ſerving for both, doth immediately receive all the vapors that are freed from the ſubject.</p>
+               <p>The Diaphragma I made uſe of for theſe Diſtillations is expreſt <hi>Fig.</hi> 3.</p>
+               <list>
+                  <item>
+                     <hi>BB.</hi> Is the Diaphragma made out of Wyres.</item>
+                  <item>
+                     <hi>AAAAAA.</hi> Are three little feet to keep it up at ſome diſtance from the bottom.</item>
+                  <item>
+                     <hi>CC.</hi> Is another Wyre faſtned to the Centre of the Diaphragma, and reaching to the top of the Glaſs, that after the Operation is made, we may draw out the Diaphragma with the matters above it, and leave the diſtilled Liquor alone in the Glaſs.</item>
+               </list>
+               <p>We might alſo order our Veſſels to be caſt after a Circular ſhape, as in <hi>Fig.</hi> 4. for ſetting one end in the
+<pb n="42" facs="tcp:50066:27"/>and the other end in cold water, all the vapors would condenſe there, and the volatile Salts might ſtick in the middle, as in ordinary Diſtillations. We might alſo order our Veſſels, as in <hi>Fig.</hi> 5. where the Pot GG hath its aperture II out of the Engine AA: ſo that the ſaid Pot might be quite ſilled with the matter to be di<g ref="char:EOLhyphen"/>ſtilled: for applying a deep cover BB to the aperture II, the vapors will all deſcend and be condenſed in the ſaid cover.</p>
+               <p>The Pot muſt be ſtrongly ſoddered to the Engine at the aperture SS to keep in the water contained in the ſpace TTTT between the Pot and the Engine.</p>
+               <p>The little Pipe HH muſt be ſhut with a Screw inſtead of weight, as you ſee in the Figure.</p>
+               <p>There ſhould be ſome kind of Iron box faſtned to the Engine AA to keep fire to it.</p>
+               <p>Laſtly, The whole thing ought to hang almoſt <hi>in Aequilibrio</hi> by the Appendices CC upon the two Pillars RRRR, that it might eaſily be turned upſide down.</p>
+               <p>By that way we may ſave the trouble of opening the <hi>Balneum Mariae,</hi> and ſo there will be no neceſſity to let it cool at all, becauſe we may look into the Pot at any time, and put new materials into it, without giving any way to the water in the ſpace TTTT to fly out. And beſides, the cover BB may be made of glaſs, and ſo we can obſerve the progreſs of the diſtillation. We may alſo (for Operations that require to be made in great quanti<g ref="char:EOLhyphen"/>ties) tye four or ſive ſuch Engines together in a great Iron ring, and place the ſire in the middle of them: ſo that the ſame ſire will heat them all at the ſame time. By this means perhaps Bread may be baked very cheap and very good with Sea-coals. And ſuch an Engine, though never ſo great, may eaſily be filled and emptied by turning it upſide down, becauſe it hangs <hi>in Aequilibrio;</hi> but I confeſs I have not yet tryed it ſo far.</p>
+            </div>
+            <div n="4" type="experiment">
+               <head>EXPERIM. IV.</head>
+               <p>
+                  <hi>Auguſt</hi> 10. I took three ounces of Cinamon, and ha<g ref="char:EOLhyphen"/>ving
+<pb n="43" facs="tcp:50066:27"/>ſet them in the ſame manner, as the Roſemary lately ſpoken of, I continued the ſire till the drop of water would dry away in a minutes time; but I found after<g ref="char:EOLhyphen"/>wards that almoſt nothing was drawn out of the Cina<g ref="char:EOLhyphen"/>mon. I put the ſame Cinamon in again, and I continued the fire till the drop of water would dry away in 2 ſe<g ref="char:EOLhyphen"/>conds upon the cover; but the bottom of the Engine was laid in cold water, which I did renew from time to time, ſo that the ſaid bottom got very little heat: that time I got about five drams of a whitiſh liquor with ſome ſmall drops of Oyl ſwimming at the top; there was alſo ſome Oyl ſticking to the ſides of the glaſs, and being ſeparated with a Knife, did alſo ſwim at the top of the liquor. It is ſomewhat probable, that the Oyl drawn after that way, is not ſo heavy as that which is brought hither from the <hi>Eaſt-Indies,</hi> and ſo mingling with the Phlegm, it makes it whitiſh; and that Phlegm having Oyl mixt with it is ſo fragrant, that it doth aromatize, there being allowed a greater quantity than of pure Oyl.</p>
+            </div>
+            <div n="5" type="experiment">
+               <head>EXPERIM. V.</head>
+               <p>
+                  <hi>Auguſt</hi> 12. I put Aniſeeds into a glaſs pot, and ſome leaves of Roſemary into another, then I poured water into both of them to ſwim over the matter. I had a mind to know whether the eſſential Oyl would not be extracted as the Gelly is extracted from bones. I thought that the particles of water, inſinuating between the parts of the Plants, would give occaſion to the particles of Oyl to get looſe, and that theſe would afterwards ga<g ref="char:EOLhyphen"/>ther at the top of the water. I continued the fire till a drop of water would evaporate in 10 ſeconds, and then I put it out. I found the matter much more fragrant than before, eſpecially the Roſemary, but I found no Oyl.</p>
+               <p>
+                  <hi>Auguſt</hi> 13. I repeated the ſame Experiment with Roſe<g ref="char:EOLhyphen"/>mary in one pot, and Cinamon in the other: I increaſed the fire till the drop of water did evaporate in 3 ſeconds,
+<pb n="44" facs="tcp:50066:28"/>and preſently I took it off. The Veſſels being cooled, I found the Roſemary rather of a ſtinking than of a ſweet ſmell: from whence I concluded, that the exceſs of heat had ſpoiled it, ſince in the former Experiment a leſſer heat had made it more fragrant: So I cannot tell whether by ſeveral Experiments we might not meet with ſome de<g ref="char:EOLhyphen"/>gree of heat that would make it much better and apt to yield more Oyl by diſtillation, and more eaſily than uſually it doth.</p>
+               <p>The Cinamon being a harder body was not ſpoiled at all; but I do not believe that it would be profitable to prepare it ſo, unleſs we could ſind a degree of heat more fit for it.</p>
+               <p>This is all I have done about Chymiſtry, to which I think I may add, that this Engine may, without doubt, be of good uſe in thoſe Operations that require a gentle and equal heat on all ſides; becauſe the hotteſt water aſcending continually, will communicate the heat every where: it will be good alſo to keep the ſame degree of heat for a great while, becauſe the great quantity of wa<g ref="char:EOLhyphen"/>ter to be heated and cooled will hinder the inequalities of the fire from being ſo remarkable upon the included matters. For example: If the ſire comes to be ſomewhat ſtronger one time than another, it will come to paſs, that the ſtrength of the fire will be abated before it hath done any great effect upon the Engine and all the water contained in it; and ſo when the fire comes to be weaker than it ought to be, yet the heat will be kept a great while in the Engine, that you may have time to make a better ſire. This conſideration hath given me a mind to apply it for hatching Chickens, and I verily believe that the thing would ſucceed: I would ſet the Ball of an Hermetically ſealed Weather-glaſs under a Hen amongſt the Eggs, and ſo the Pipe of the ſaid Glaſs reaching out of the Neſt, may ſhew the degree of heat neceſſary for that Operation: then I would include that ſame Wea<g ref="char:EOLhyphen"/>ther-glaſs in an Engine ſo accommodated with glaſs win<g ref="char:EOLhyphen"/>dows, that people might ſee what paſſeth in it; the
+<pb n="45" facs="tcp:50066:28"/>Eggs in glaſs pots well ſtopt ſhould be included in the ſame Engine, and ſo we may obſerve the degree of heat by the other glaſs, that it be juſt the ſame with that when it was under the Hen, and alſo may ſee when the Chic<g ref="char:EOLhyphen"/>kens are hatcht, becauſe this Operation is very gentle, and requires neither great preſſure nor heat. Engines for that purpoſe may be made of Lead, ſo that they will be big and cheap. I had a mind alſo to try whether the preſſure might haſten the formation of a Chicken as well as it doth the coction of meat; but I have given over ſuch deſigns, ſeeing I could find no leiſure to go through with them.</p>
+            </div>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. VII.</hi> Experiments for Dyers.</head>
+            <div n="1" type="experiment">
+               <head>EXPERIM. I.</head>
+               <p>BEcauſe in the ſecond Experiment of the fifth Cha<g ref="char:EOLhyphen"/>pter I had ſome thoughts that the Gooſberries had drawn a fine purple colour from the Pewter, I had a mind to ſee whether Currants, being red already, would not make a finer colour: Therefore</p>
+               <p>
+                  <hi>Auguſt</hi> 3. I put ſeveral ſmall Pewter Plates into a glaſs pot with ſqueezed Currants: I continued the fire till the drop of water would dry away in 3 ſeconds, with an inward preſſure twelve times as ſtrong as the ordinary preſſure of the Air. I found afterwards that Currants, inſtead of making a finer colour than Gooſe-berries, had but a pale liquor, and much taſte of Empyreume.</p>
+               <p>I had at the ſame time put ſome black Cherries into another pot, and I found the colour of their juyce migh<g ref="char:EOLhyphen"/>tily abated: this made me gueſs that fire doth very much alter the colours of moſt Bodies it works upon, by giving colour to thoſe that had none, and taking it from thoſe
+<pb n="46" facs="tcp:50066:29"/>that were coloured afore: and I believe that in <hi>Chap.</hi> 5. <hi>Exper.</hi> 2. the Gooſe-berries that were burſt againſt the Pewter had got more colour than the reſt, meerly be<g ref="char:EOLhyphen"/>cauſe they had endured more heat: Therefore it is like enough, that if by means of this Engine we apply much heat without waſting the Bodies away, we may uſe for ſeveral Tinctures ſuch Materials as we could never have done by the ordinary ways.</p>
+            </div>
+            <div n="2" type="experiment">
+               <head>EXPERIM. II.</head>
+               <p>
+                  <hi>Auguſt</hi> 4. I took Juyce of Lemmons, and incloſed it with ſome ſmall Pewter Plates in a glaſs pot; and having increaſed the ſire till the drop of water would evaporate in 10 ſeconds, with an inward preſſure three times ſtron<g ref="char:EOLhyphen"/>ger than the ordinary preſſure of the Air, I found that the Juyce of Lemmons had drawn no tincture from the Pewter, though it be much more acid than that of ripe Gooſe-berries.</p>
+               <p>
+                  <hi>Auguſt</hi> 7. I repeated the ſame Experiment with the ſame Juyce of Lemmons, and I increaſed the fire till the drop of water would dry away in 3 ſeconds, with the inward preſſure twelve times ſtronger than the ordinary preſſure of the Air: I left ſome fire to keep the heat lon<g ref="char:EOLhyphen"/>ger, and I found that the Juyce of Lemmons had got no taſte of Empyreume, nor taken any tincture from the Pewter, but it lookt a little yellowiſh: from thence I was more fully perſwaded, that the colour of the Gooſe<g ref="char:EOLhyphen"/>berries <hi>Chap.</hi> 5. <hi>Exper.</hi> 2. had not been drawn from the Pewter.</p>
+               <p>I had put at the ſame time ſome ſqueezed Gooſe-ber<g ref="char:EOLhyphen"/>ries into another pot, and I found them to be burnt ſo much, that one could hardly ſwallow them: their colour was reddiſh, but nothing near ſo fine as that <hi>Chap.</hi> 5. <hi>Exper.</hi> 2. ſo that it appears, that the exceſs of heat may be very hurtful: having ſtained my hands with that burnt Juyce, it ſtuck ſo faſt, that I could not get it off in five days, though I waſht it with Sope pretty often, ſo that perhaps ſuch liquor may prove a good Vehicle to make colours penetrate and ſtick well.</p>
+            </div>
+            <div n="3" type="experiment">
+               <pb n="47" facs="tcp:50066:29"/>
+               <head>EXPERIM. III.</head>
+               <p>
+                  <hi>Auguſt</hi> 16. Mr. <hi>Mayre</hi> a Dyer brought me ſome pul<g ref="char:EOLhyphen"/>verized <hi>rubia tinctorum,</hi> we put it into two glaſs pots with ſome pieces of cloth and water; and to one of them we added a little Brandy: we increaſed the fire till the drop of water would dry away in 3 ſeconds, with an inward preſſure 12 times ſtronger than the ordinary preſſure of the Air; this was done in half an hours time: I took off the fire quickly, and the Veſſels being cooled, we found the red colour ſpoiled and turned yellow: the pieces of cloth had their texture quite deſtroyed, and might be torn very eaſily, though in the ordinary way ſuch cloth may be boiled for ſeveral hours together without danger.</p>
+               <p>From this Experiment we ſaw that the <hi>rubia tinctorum</hi> nor the cloth cannot endure ſuch a ſtrong heat.</p>
+               <p>Mr. <hi>Mayre</hi> had a mind afterwards to ſee whether Co<g ref="char:EOLhyphen"/>chenille would give all its tincture without being grind<g ref="char:EOLhyphen"/>ed; therefore he put three grains of Cochenille very en<g ref="char:EOLhyphen"/>tire into a glaſs pot with three ounces and half of water, and at the ſame time he put into another pot ſome coarſe Cochenille that is ſold eight times cheaper than the o<g ref="char:EOLhyphen"/>ther, and therefore he put eight times greater quantity of it in proportion to the water. Having increaſed the fire, as in the former tryal with <hi>rubia tinctorum,</hi> we found in the firſt glaſs that one of the grains of Cochenille had been quite diſſolved, and that the two remaining had loſt all their colour, and were turned black: the liquor was of a fine red colour; but in the ſecond pot the tin<g ref="char:EOLhyphen"/>cture was ſtronger and deeper.</p>
+               <p>From this Experiment it appears, that by the help of this Engine one may ſave all the labour of grinding the Cochenille and all the waſting of it, and perhaps coarſe Cochenille will give much more tincture than uſually it doth.</p>
+               <p>I made a tryal with theſe Liquors to know whether the Pneumatick Engine would help Tinctures to penetrate better into the cloth: I put a piece of cloth into one of
+<pb n="48" facs="tcp:50066:30"/>the liquors, and having ſet it ſo <hi>in Vacuo,</hi> I ſaw, accord<g ref="char:EOLhyphen"/>ing to my expectation, that a great many bubbles of Air got out of the cloth, ſo that I was in great hopes that the tincture getting into the place of that Air, would pene<g ref="char:EOLhyphen"/>trate every where: yet having let in the Air again, and expreſt the humidity from the cloth, I found that all the colour was gone too: from whence I concluded, that it is not enough to have the colour inſinuate between the hairs of the cloth, but that it muſt get into the hairs themſelves; and this cannot be done, unleſs all the little particles every hair is made of, be rarified and expanded by heat, which is much more powerful for that than any <hi>Tacuum</hi> can be.</p>
+            </div>
+            <div n="4" type="experiment">
+               <head>EXPERIM. IV.</head>
+               <p>
+                  <hi>Auguſt</hi> 18. I put two pieces of cloth into two glaſs pots; to one of them I added ſome tincture of coarſe Cochenille, and to the other Juvce of Prunes diſtilled after the manner deſcribed <hi>Chap.</hi> 6. <hi>Exper.</hi> 3. I preſt the fire till the drop of water would dry away in 42 ſeconds, with an inward preſſure ſix times ſtronger than the ordi<g ref="char:EOLhyphen"/>nary preſſure of the Air: then I took off the ſire quick<g ref="char:EOLhyphen"/>ly for fear the cloth ſhould be ſpoiled: the Veſſels being cooled, I found both the pieces of cloth good ſtill and well dy'd, the Juyce of Prunes having penetrated as well as the tincture of Cochenille; but the tincture of it was of a deeper red and nearer to a brown colour: the Juyce it ſelf was much altered, for it was Violet before: it was grown alſo much more liquid and watry.</p>
+               <p>From this Experiment it appears, that this Engine keeping things for a great while in a great heat without damage, and hindring the moſt ſubtile parts from getting away, as uſually they do, may be ſit to inſinuate into cloth ſuch liquors as are reckoned to be too thick and glutinous, as the Juyce of Plums is; becauſe for dying there is no need of good taſte.</p>
+               <p>Mr. <hi>Mayre</hi> thinks there would be no need of an in<g ref="char:EOLhyphen"/>ward pot, and ſo I believe the aperture of the outward
+<pb n="49" facs="tcp:50066:30"/>Engine might be left leſſer than the cavity, as you may ſee <hi>Fig.</hi> 6. Yet if they would dye cloth in it, the aper<g ref="char:EOLhyphen"/>ture HH ſhould be left wide enough to convey the cloth into the cavity AA, and this Engine ſhould alſo hang <hi>in Aequilibrio</hi> by its Appendices CC for the conveniency of filling and emptying the ſame.</p>
+            </div>
+         </div>
+         <div n="8" type="chapter">
+            <head>
+               <hi>CHAP. VIII.</hi> Experiments upon barder Bodies, as Amber, Ivory, <hi>&amp;c.</hi>
+            </head>
+            <p>IHave made other Experiments upon harder bodies, as Amber, Ivory, Cow's horn, Tortoiſe-ſhells; but becauſe I have found nothing yet that may be brought to uſe, I will not be tedious in relating the Particulars of thoſe Experiments; therefore I ſhall only ſet down ſome few obſervations which they afforded.</p>
+            <p n="1">1. Amber could never be melted whatever degree of heat I made uſe of, though I filled the Engine with Pitch and Sand inſtead of water; and I preſt the cover with eight Screws inſtead of two. I could indeed ſepa<g ref="char:EOLhyphen"/>rate ſeveral ſubſtances from it, as Balſam, Fumes, and Terreſtreities; but that cannot be called melted Am<g ref="char:EOLhyphen"/>ber, ſince it hath-loſt ſeveral proprieties belonging to Amber: for if we diſſolve theſe ſubſtances with Spirit of Turpentine, they cannot be brought to any conſide<g ref="char:EOLhyphen"/>rable hardneſs by evaporating the Spirit, and an indif<g ref="char:EOLhyphen"/>ferent heat will ſoften them again.</p>
+            <p n="2">2. Mr. <hi>Boyle</hi> having given me ſome Copal Gum to try what it would do, I found indeed that it could be melted without being much altered; but when I would apply the ſame to facilitate the melting of Amber, I found that it would not do: I would, for the ſame pur<g ref="char:EOLhyphen"/>poſe, make uſe of Gum Tragacanth, Maſtich, and Roſin, but it was all in vain: ſo that I believe one may be ſure
+<pb n="50" facs="tcp:50066:31"/>that the melting of Amber requires a ſtronger and quick<g ref="char:EOLhyphen"/>er heat than this Engine can give.</p>
+            <p n="3">3. Though Cows horn ſeems to be a more glutinous matter than bones are, I could never make any gelly or glue with it, though I have put the ſame over and over again in the Engine upon the fire, even four times ſuc<g ref="char:EOLhyphen"/>ceſſively.</p>
+            <p n="4">4. I could never make Ivory ſoft and glutinous, though I have boiled it ſeveral ways, and in ſeveral <hi>Menſtruums,</hi> as Greaſe, Oyl, Beer, and Water; I could draw a fine and tranſparent Gelly from it, but the body remained brittle.</p>
+            <p n="5">5. Tortoiſe-ſhell cannot be ſoftned by boiling in Oyl; but in Spirit of Wine it ſwells, and hath a great many cavities like a Sponge.</p>
+            <p n="6">6. Cows horn and Tortoiſe-ſhell having been with water expoſed to a heat that drys away the drop of wa<g ref="char:EOLhyphen"/>ter in 3 ſeconds, with an inward preſſure twelve times ſtronger than the ordinary preſſure of the Air, they come to be ſo ſoft, that they do not grow hard again but in three or four days time; and this perhaps might be of ſome uſe, and give more conveniency to work thoſe Materials than when they are heated only after the ordinary way; but I muſt confeſs that they will after<g ref="char:EOLhyphen"/>wards be more brittle than before: and I have ſeen once two pieces of Tortoiſe-ſhell that had been by boiling ſo well glued to one another, that after they were hardned again, they would rather break in other places than be ſeparated.</p>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="51" facs="tcp:50066:31"/>
+            <head>
+               <hi>CHAP. IX.</hi> A Calculation of the price that a good big Engi ne may come to, and of the profit it may afford.</head>
+            <p>BEcauſe people are loth to meddle with new In<g ref="char:EOLhyphen"/>ventions, leſt the expence ſhould be greater than the profit to be got by them, I will ſubjoyn here a cal<g ref="char:EOLhyphen"/>culation of the price which a good Engine may come to, and of the profit that may be got by it.</p>
+            <p>I have been at an Iron-mongers houſe, and there I cauſed a caſt Iron Pipe to be weighed: This being ſix inches in Diameter and two foot long, and, without doubt, ſtrong enough to endure an inward preſſure twenty times ſtronger than the ordinary preſſure of the Air; This Pipe, I ſay, did weigh but 57 pounds: ſo that ſuch another Pipe 12 inches in Diameter, and as ſtrong proportionably to its bigneſs, will weight but a<g ref="char:EOLhyphen"/>bout 228 pounds: But let a covered Veſſel weigh 250, yet it will not come to 48 ſhillings, ſeeing the Merchants can with good profit afford ſuch Metal at two pence half penny a pound.</p>
+            <p>Now if the cover and the Veſſel were ground to one another, and that in a Country where Work-men are cheap, the grinding will ſcarce come to two ſhillings.</p>
+            <p>Then the Iron pieces DD with four Screws (leſt two ſhould not do enough) and the Iron rod LM may be afforded much under five ſhillings, eſpecially if made in the Country and in numbers.</p>
+            <p>Five ſhillings would alſo be a great deal too much for ſetting the Pipe HH, and ſitting a Valve to it.</p>
+            <p>The inward Pot GG of caſt Iron, or glaſs, or ſtone<g ref="char:EOLhyphen"/>pot might alſo be got under 20 ſhillings ſtrong enough and big enough to hold 80 pounds of water: I confeſs it would be a hard matter to make a Glaſs ſo big; but inſtead of one they may make three or four to be ſet in the ſame Frame one above the other: So that we may
+<pb n="52" facs="tcp:50066:32"/>be ſure that a Merchant may with good profit afford ſuch Engines ready in good condition at 4 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſterling apiece.</p>
+            <p>Now ſuch an Engine is able to make above 50 pounds of the Gelly at a time, and may do the ſame quantity at leaſt twice in 24 hours, (for I have tryed that my great Engine, which is 6 inches in diameter, may in leſs than an hours time be heated enough to make Gelly of Bones) therefore one may make 100 pounds of Gelly every day.</p>
+            <p>Now in <hi>Paris</hi> where people conſtantly keep Gelly ready to ſell, the price of it is 20 pence a pound; but in <hi>London,</hi> where they make none, unleſs it be beſpoken, Apothecaries uſe to ſell it at 2 ſhillings a pound; there<g ref="char:EOLhyphen"/>fore it would be a very good thing for the Publick, if any one would ſell Gellies for a groat a pound: yet at that price the aforeſaid Engine would make Gelly for above 33 ſhillings every day.</p>
+            <p>The fire will not come to ſix pence, and the bones with ſome Harts-horn might be got cheap enough too, ſince it is not neceſſary to ſhave them for this Engine, and a little Sugar ſerves for Gellies: yet let the expence come to 13 ſhillings a day, there will be ſtill 20 ſhillings profit for the Owner of the Engine, and ſo in four days time he will be fully requited for his firſt expence, and one man alone may at the ſame time keep five or ſix ſuch Engines at work for ſeveral uſes, whereof ſome perhaps will prove more profitable than the making of Gellies: Therefore we muſt not queſtion but thoſe that will ſet upon ſuch things, may make their own profit very well, and at the ſame time do a great ſervice to the Publick I have not therefore thought it right, in a thing of ſo general uſe, that a man by virtue of a Patent ſhould hinder other people from working that may perhaps have more skill in doing things good and cheap; and I have inſtructed Mr. <hi>Mayor,</hi> a Founder, in <hi>Old Bedlam</hi> how to make theſe Engines of caſt Braſs, ſo that any body may ſee them and buy them of him.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="53" facs="tcp:50066:32"/>
+            <head>POSTSCRIPT.</head>
+            <p>DOctor <hi>Edm. King,</hi> Fellow of the Royal Society, ha<g ref="char:EOLhyphen"/>ving got one of theſe Engines, for a greater ſecu<g ref="char:EOLhyphen"/>rity and conveniency, cauſed the rod LM to be fitted in L with a Joynt, ſo that it muſt always fall upon the Pipe HH, and there is no danger that the Valve P may ſlip off and ſpoil the Operation: he hath alſo cauſed a Brick Furnace to be built on purpoſe, ſo that I have lately tryed whether by that means the expence of coals would be leſs than in my Chimney-corner (ſee <hi>pag.</hi> 6.) but I have found, contrary to my expectation, that the ex<g ref="char:EOLhyphen"/>pence is much greater in his Furnance: the reaſon of which probably is, becauſe in his Furnace the coals did not at all touch the Engine, but remained at a little di<g ref="char:EOLhyphen"/>ſtance below, as in ordinary Sand-Furnaces the coals do not touch the Pot; but in my Chimney the coals touch the Engine almoſt all along, and thereby may the bet<g ref="char:EOLhyphen"/>ter heat it. It is therefore likely, that it would be bet<g ref="char:EOLhyphen"/>ter to build Furnaces, ſo as to have the coals touch the Engine all along one ſide: It would be better alſo to have them made of Iron plates, becauſe a Brick Furnace requires much fire to be throughly heated, unleſs it be kept at work conſtantly.</p>
+            <p>Mean while the Doctor hath made ſeveral Experi<g ref="char:EOLhyphen"/>ments with his Engine, having this conveniency, that there is no need of blowing the fire. Beſides many good diſhes of Meat and Fiſh, he hath prepared ſeveral Medi<g ref="char:EOLhyphen"/>cines, and found that in this Engine the Operation may be performed in leſs than the tenth part of the time that is required in his other Furnaces; and yet ſome of them are much ſtronger than ordinary.</p>
+            <p>We have ſeen that Harts-horn in Winter time, being boiled with twelve times as much water, will turn it all to a Gelly: ſo do the bones with above four times as much water, which is at leaſt as much again as I had
+<pb n="54" facs="tcp:50066:33"/>found in Summer time. <hi>
+                  <g ref="char:V">Ʋ</g>pon this occaſion I will mention two other Particulars which do not ſucceed in cold, as in hot weather: The firſt is the Fermentation of Bones ſpoken of</hi> Chap. 3. Exp. 8. <hi>which is not ſo well performed in Winter. The ſecond is the quantity of fire required in ſuch Opera<g ref="char:EOLhyphen"/>tions; for I have found by my Engine that Mutton may be very well dreſt, and the bones ſoftned with five ounces of coals in Summer time; but in Winter the ſame effect cannot be produced with leſs than ſix ounces and half.</hi>
+            </p>
+            <p>We have ſeen that it is not neceſſary to put in the Engine all the water to be congealed; but putting equal weight of bones and water, after the Operation your water being mingled with three times as much freſh wa<g ref="char:EOLhyphen"/>ter, will turn it all to a Gelly: ſo the Gelly to be made with an Engine, and therefore the profit to be got by it, is much greater than I have ſaid <hi>Chap.</hi> 9.</p>
+            <p>I have found that an old Hat, very bad and looſely made, being imbibed with Gelly of Bones, is become very firm and ſtiff: ſo that it is likely, if ſuch Liquor ſhould be uſed in making Hats, they would be extraor<g ref="char:EOLhyphen"/>dinary good.</p>
+            <p>The Doctor's Engine having already given occaſion to theſe Experiments, I doubt not but when the thing is made common, a great many more Uſes of it will be found in a ſhort time.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50066:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
